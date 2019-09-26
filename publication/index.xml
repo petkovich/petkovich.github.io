@@ -12,5 +12,1233 @@
       <link>https://petkovich.github.io/publication/</link>
     </image>
     
+    <item>
+      <title></title>
+      <link>https://petkovich.github.io/publication/rcim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://petkovich.github.io/publication/rcim/</guid>
+      <description>
+
+
+
+
+
+&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+  &lt;head&gt;
+    &lt;meta charset=&#34;utf-8&#34;&gt;
+  &lt;link rel=&#34;dns-prefetch&#34; href=&#34;https://github.githubassets.com&#34;&gt;
+  &lt;link rel=&#34;dns-prefetch&#34; href=&#34;https://avatars0.githubusercontent.com&#34;&gt;
+  &lt;link rel=&#34;dns-prefetch&#34; href=&#34;https://avatars1.githubusercontent.com&#34;&gt;
+  &lt;link rel=&#34;dns-prefetch&#34; href=&#34;https://avatars2.githubusercontent.com&#34;&gt;
+  &lt;link rel=&#34;dns-prefetch&#34; href=&#34;https://avatars3.githubusercontent.com&#34;&gt;
+  &lt;link rel=&#34;dns-prefetch&#34; href=&#34;https://github-cloud.s3.amazonaws.com&#34;&gt;
+  &lt;link rel=&#34;dns-prefetch&#34; href=&#34;https://user-images.githubusercontent.com/&#34;&gt;
+
+
+
+  &lt;link crossorigin=&#34;anonymous&#34; media=&#34;all&#34; integrity=&#34;sha512-lEwNhIgWxFtdGboTlCciWWGiX2vG3LOojEE671oRJEhnPj6jpmgQTJtpq3O2KBzCcln6RzwfvHlyFaI/oR+RNQ==&#34; rel=&#34;stylesheet&#34; href=&#34;https://github.githubassets.com/assets/frameworks-849637ecbd4bd65815cc113d80fee2d4.css&#34; /&gt;
+  
+    &lt;link crossorigin=&#34;anonymous&#34; media=&#34;all&#34; integrity=&#34;sha512-F4Y2uZtKCXXtPW2OUrAtxB7vEiCjXe4jTQaPRJs+fpdOyINPX9wnkcbRGgX/NXtpJBtprUnkcciQw+7EfIE8FA==&#34; rel=&#34;stylesheet&#34; href=&#34;https://github.githubassets.com/assets/github-d8718f3659108c43bfc9399644b5341f.css&#34; /&gt;
+    
+    
+    
+    
+
+  &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width&#34;&gt;
+  
+  &lt;title&gt;academic-kickstart/index.md at master · ahadviger/academic-kickstart&lt;/title&gt;
+    &lt;meta name=&#34;description&#34; content=&#34;Easily create a beautiful website using Academic and Hugo - ahadviger/academic-kickstart&#34;&gt;
+    &lt;link rel=&#34;search&#34; type=&#34;application/opensearchdescription+xml&#34; href=&#34;https://petkovich.github.io/opensearch.xml&#34; title=&#34;GitHub&#34;&gt;
+  &lt;link rel=&#34;fluid-icon&#34; href=&#34;https://github.com/fluidicon.png&#34; title=&#34;GitHub&#34;&gt;
+  &lt;meta property=&#34;fb:app_id&#34; content=&#34;1401488693436528&#34;&gt;
+
+    &lt;meta name=&#34;twitter:image:src&#34; content=&#34;https://avatars2.githubusercontent.com/u/7397752?s=400&amp;amp;v=4&#34; /&gt;&lt;meta name=&#34;twitter:site&#34; content=&#34;@github&#34; /&gt;&lt;meta name=&#34;twitter:card&#34; content=&#34;summary&#34; /&gt;&lt;meta name=&#34;twitter:title&#34; content=&#34;ahadviger/academic-kickstart&#34; /&gt;&lt;meta name=&#34;twitter:description&#34; content=&#34;Easily create a beautiful website using Academic and Hugo - ahadviger/academic-kickstart&#34; /&gt;
+    &lt;meta property=&#34;og:image&#34; content=&#34;https://avatars2.githubusercontent.com/u/7397752?s=400&amp;amp;v=4&#34; /&gt;&lt;meta property=&#34;og:site_name&#34; content=&#34;GitHub&#34; /&gt;&lt;meta property=&#34;og:type&#34; content=&#34;object&#34; /&gt;&lt;meta property=&#34;og:title&#34; content=&#34;ahadviger/academic-kickstart&#34; /&gt;&lt;meta property=&#34;og:url&#34; content=&#34;https://github.com/ahadviger/academic-kickstart&#34; /&gt;&lt;meta property=&#34;og:description&#34; content=&#34;Easily create a beautiful website using Academic and Hugo - ahadviger/academic-kickstart&#34; /&gt;
+
+  &lt;link rel=&#34;assets&#34; href=&#34;https://github.githubassets.com/&#34;&gt;
+  &lt;link rel=&#34;web-socket&#34; href=&#34;wss://live.github.com/_sockets/VjI6NDQ5MDk3MzYzOjBhMDM2YTU1MWY4YjliOThkZTBjNTlkZmE3NmZkZThlMTMzMjhlMjg0ZDU0MTQxMDY3MWQ4MDJiZDE1MDkzNDU=--3baf93b8e246938b23bb4df0e66d32e2948cf459&#34;&gt;
+  &lt;meta name=&#34;pjax-timeout&#34; content=&#34;1000&#34;&gt;
+  &lt;link rel=&#34;sudo-modal&#34; href=&#34;https://petkovich.github.io/sessions/sudo_modal&#34;&gt;
+  &lt;meta name=&#34;request-id&#34; content=&#34;D040:433C3:279A637:3B9B858:5D8CAFB5&#34; data-pjax-transient&gt;
+
+
+  
+
+  &lt;meta name=&#34;selected-link&#34; value=&#34;repo_source&#34; data-pjax-transient&gt;
+
+      &lt;meta name=&#34;google-site-verification&#34; content=&#34;KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU&#34;&gt;
+    &lt;meta name=&#34;google-site-verification&#34; content=&#34;ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA&#34;&gt;
+    &lt;meta name=&#34;google-site-verification&#34; content=&#34;GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc&#34;&gt;
+
+  &lt;meta name=&#34;octolytics-host&#34; content=&#34;collector.githubapp.com&#34; /&gt;&lt;meta name=&#34;octolytics-app-id&#34; content=&#34;github&#34; /&gt;&lt;meta name=&#34;octolytics-event-url&#34; content=&#34;https://collector.githubapp.com/github-external/browser_event&#34; /&gt;&lt;meta name=&#34;octolytics-dimension-request_id&#34; content=&#34;D040:433C3:279A637:3B9B858:5D8CAFB5&#34; /&gt;&lt;meta name=&#34;octolytics-dimension-region_edge&#34; content=&#34;ams&#34; /&gt;&lt;meta name=&#34;octolytics-dimension-region_render&#34; content=&#34;iad&#34; /&gt;&lt;meta name=&#34;octolytics-dimension-ga_id&#34; content=&#34;&#34; class=&#34;js-octo-ga-id&#34; /&gt;&lt;meta name=&#34;octolytics-dimension-visitor_id&#34; content=&#34;7298774923666805986&#34; /&gt;&lt;meta name=&#34;octolytics-actor-id&#34; content=&#34;51706321&#34; /&gt;&lt;meta name=&#34;octolytics-actor-login&#34; content=&#34;petkovich&#34; /&gt;&lt;meta name=&#34;octolytics-actor-hash&#34; content=&#34;01ae65ac70144b66c2b05726570a87189b05108fc3aa766919f4aaabd420728d&#34; /&gt;
+&lt;meta name=&#34;analytics-location&#34; content=&#34;/&amp;lt;user-name&amp;gt;/&amp;lt;repo-name&amp;gt;/blob/show&#34; data-pjax-transient=&#34;true&#34; /&gt;
+
+
+
+    &lt;meta name=&#34;google-analytics&#34; content=&#34;UA-3769691-2&#34;&gt;
+
+  &lt;meta class=&#34;js-ga-set&#34; name=&#34;userId&#34; content=&#34;aa56d74522d347eaa4d1a9da0f3f244e&#34;&gt;
+
+&lt;meta class=&#34;js-ga-set&#34; name=&#34;dimension1&#34; content=&#34;Logged In&#34;&gt;
+
+
+
+  
+
+      &lt;meta name=&#34;hostname&#34; content=&#34;github.com&#34;&gt;
+    &lt;meta name=&#34;user-login&#34; content=&#34;petkovich&#34;&gt;
+
+      &lt;meta name=&#34;expected-hostname&#34; content=&#34;github.com&#34;&gt;
+    &lt;meta name=&#34;js-proxy-site-detection-payload&#34; content=&#34;YjEyYTE3NmI3MzFhZmZlNjliNjY3MmRjNGMyNDg4NDBmOGZhOGFhMjhmNWRmNzZmMjhlY2EyMDg3MzMxZjhmYXx7InJlbW90ZV9hZGRyZXNzIjoiMjEzLjE0Ny4xMTAuMjU1IiwicmVxdWVzdF9pZCI6IkQwNDA6NDMzQzM6Mjc5QTYzNzozQjlCODU4OjVEOENBRkI1IiwidGltZXN0YW1wIjoxNTY5NTAxMTE3LCJob3N0IjoiZ2l0aHViLmNvbSJ9&#34;&gt;
+
+    &lt;meta name=&#34;enabled-features&#34; content=&#34;ACTIONS_V2_ON_MARKETPLACE,MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLATIONS,NOTIFY_ON_BLOCK,RELATED_ISSUES,GHE_CLOUD_TRIAL&#34;&gt;
+
+  &lt;meta name=&#34;html-safe-nonce&#34; content=&#34;eb53217aa2eb3d509570f44c8163cc87807b3465&#34;&gt;
+
+  &lt;meta http-equiv=&#34;x-pjax-version&#34; content=&#34;3af0f61688068cf78e4b8af2daa82975&#34;&gt;
+  
+
+      &lt;link href=&#34;https://github.com/ahadviger/academic-kickstart/commits/master.atom&#34; rel=&#34;alternate&#34; title=&#34;Recent Commits to academic-kickstart:master&#34; type=&#34;application/atom+xml&#34;&gt;
+
+  &lt;meta name=&#34;go-import&#34; content=&#34;github.com/ahadviger/academic-kickstart git https://github.com/ahadviger/academic-kickstart.git&#34;&gt;
+
+  &lt;meta name=&#34;octolytics-dimension-user_id&#34; content=&#34;7397752&#34; /&gt;&lt;meta name=&#34;octolytics-dimension-user_login&#34; content=&#34;ahadviger&#34; /&gt;&lt;meta name=&#34;octolytics-dimension-repository_id&#34; content=&#34;208497216&#34; /&gt;&lt;meta name=&#34;octolytics-dimension-repository_nwo&#34; content=&#34;ahadviger/academic-kickstart&#34; /&gt;&lt;meta name=&#34;octolytics-dimension-repository_public&#34; content=&#34;true&#34; /&gt;&lt;meta name=&#34;octolytics-dimension-repository_is_fork&#34; content=&#34;true&#34; /&gt;&lt;meta name=&#34;octolytics-dimension-repository_parent_id&#34; content=&#34;111604813&#34; /&gt;&lt;meta name=&#34;octolytics-dimension-repository_parent_nwo&#34; content=&#34;sourcethemes/academic-kickstart&#34; /&gt;&lt;meta name=&#34;octolytics-dimension-repository_network_root_id&#34; content=&#34;111604813&#34; /&gt;&lt;meta name=&#34;octolytics-dimension-repository_network_root_nwo&#34; content=&#34;sourcethemes/academic-kickstart&#34; /&gt;&lt;meta name=&#34;octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown&#34; content=&#34;false&#34; /&gt;
+
+
+    &lt;link rel=&#34;canonical&#34; href=&#34;https://github.com/ahadviger/academic-kickstart/blob/master/content/publication/event-lifetime/index.md&#34; data-pjax-transient&gt;
+
+
+  &lt;meta name=&#34;browser-stats-url&#34; content=&#34;https://api.github.com/_private/browser/stats&#34;&gt;
+
+  &lt;meta name=&#34;browser-errors-url&#34; content=&#34;https://api.github.com/_private/browser/errors&#34;&gt;
+
+  &lt;link rel=&#34;mask-icon&#34; href=&#34;https://github.githubassets.com/pinned-octocat.svg&#34; color=&#34;#000000&#34;&gt;
+  &lt;link rel=&#34;icon&#34; type=&#34;image/x-icon&#34; class=&#34;js-site-favicon&#34; href=&#34;https://github.githubassets.com/favicon.ico&#34;&gt;
+
+&lt;meta name=&#34;theme-color&#34; content=&#34;#1e2327&#34;&gt;
+
+
+
+  &lt;meta name=&#34;webauthn-auth-enabled&#34; content=&#34;true&#34;&gt;
+
+  &lt;meta name=&#34;webauthn-registration-enabled&#34; content=&#34;true&#34;&gt;
+
+  &lt;link rel=&#34;manifest&#34; href=&#34;https://petkovich.github.io/manifest.json&#34; crossOrigin=&#34;use-credentials&#34;&gt;
+
+  &lt;/head&gt;
+
+  &lt;body class=&#34;logged-in env-production page-responsive page-blob&#34;&gt;
+    
+
+  &lt;div class=&#34;position-relative js-header-wrapper &#34;&gt;
+    &lt;a href=&#34;#start-of-content&#34; tabindex=&#34;1&#34; class=&#34;p-3 bg-blue text-white show-on-focus js-skip-to-content&#34;&gt;Skip to content&lt;/a&gt;
+    &lt;div id=&#34;js-pjax-loader-bar&#34; class=&#34;pjax-loader-bar&#34;&gt;&lt;div class=&#34;progress&#34;&gt;&lt;/div&gt;&lt;/div&gt;
+
+    
+    
+    
+
+
+          &lt;header class=&#34;Header js-details-container Details flex-wrap flex-lg-nowrap p-responsive&#34; role=&#34;banner&#34;&gt;
+
+    &lt;div class=&#34;Header-item d-none d-lg-flex&#34;&gt;
+      &lt;a class=&#34;Header-link&#34; href=&#34;https://github.com/&#34; data-hotkey=&#34;g d&#34; aria-label=&#34;Homepage&#34; data-ga-click=&#34;Header, go to dashboard, icon:logo&#34;&gt;
+  &lt;svg class=&#34;octicon octicon-mark-github v-align-middle&#34; height=&#34;32&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;32&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z&#34;/&gt;&lt;/svg&gt;
+&lt;/a&gt;
+
+    &lt;/div&gt;
+
+    &lt;div class=&#34;Header-item d-lg-none&#34;&gt;
+      &lt;button class=&#34;Header-link btn-link js-details-target&#34; type=&#34;button&#34; aria-label=&#34;Toggle navigation&#34; aria-expanded=&#34;false&#34;&gt;
+        &lt;svg height=&#34;24&#34; class=&#34;octicon octicon-three-bars&#34; viewBox=&#34;0 0 12 16&#34; version=&#34;1.1&#34; width=&#34;18&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M11.41 9H.59C0 9 0 8.59 0 8c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zm0-4H.59C0 5 0 4.59 0 4c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zM.59 11H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1H.59C0 13 0 12.59 0 12c0-.59 0-1 .59-1z&#34;/&gt;&lt;/svg&gt;
+      &lt;/button&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;Header-item Header-item--full flex-column flex-lg-row width-full flex-order-2 flex-lg-order-none mr-0 mr-lg-3 mt-3 mt-lg-0 Details-content--hidden&#34;&gt;
+        &lt;div class=&#34;header-search flex-self-stretch flex-lg-self-auto mr-0 mr-lg-3 mb-3 mb-lg-0 scoped-search site-scoped-search js-site-search position-relative js-jump-to&#34;
+  role=&#34;combobox&#34;
+  aria-owns=&#34;jump-to-results&#34;
+  aria-label=&#34;Search or jump to&#34;
+  aria-haspopup=&#34;listbox&#34;
+  aria-expanded=&#34;false&#34;
+&gt;
+  &lt;div class=&#34;position-relative&#34;&gt;
+    &lt;!-- &#39;&#34;` --&gt;&lt;!-- &lt;/textarea&gt;&lt;/xmp&gt; --&gt;&lt;/option&gt;&lt;/form&gt;&lt;form class=&#34;js-site-search-form&#34; role=&#34;search&#34; aria-label=&#34;Site&#34; data-scope-type=&#34;Repository&#34; data-scope-id=&#34;208497216&#34; data-scoped-search-url=&#34;/ahadviger/academic-kickstart/search&#34; data-unscoped-search-url=&#34;/search&#34; action=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/search&#34; accept-charset=&#34;UTF-8&#34; method=&#34;get&#34;&gt;&lt;input name=&#34;utf8&#34; type=&#34;hidden&#34; value=&#34;&amp;#x2713;&#34; /&gt;
+      &lt;label class=&#34;form-control input-sm header-search-wrapper p-0 header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container&#34;&gt;
+        &lt;input type=&#34;text&#34;
+          class=&#34;form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable&#34;
+          data-hotkey=&#34;s,/&#34;
+          name=&#34;q&#34;
+          value=&#34;&#34;
+          placeholder=&#34;Search or jump to…&#34;
+          data-unscoped-placeholder=&#34;Search or jump to…&#34;
+          data-scoped-placeholder=&#34;Search or jump to…&#34;
+          autocapitalize=&#34;off&#34;
+          aria-autocomplete=&#34;list&#34;
+          aria-controls=&#34;jump-to-results&#34;
+          aria-label=&#34;Search or jump to…&#34;
+          data-jump-to-suggestions-path=&#34;/_graphql/GetSuggestedNavigationDestinations#csrf-token=/AkAPWbLAPs9QoiXwJsxenK3QY3zBlFl+PxIQcetVcxbvOucn8mavNsOKo+Jn+5zjsw/v3dJlDdf8aE9Uq2D8Q==&#34;
+          spellcheck=&#34;false&#34;
+          autocomplete=&#34;off&#34;
+          &gt;
+          &lt;input type=&#34;hidden&#34; class=&#34;js-site-search-type-field&#34; name=&#34;type&#34; &gt;
+            &lt;img src=&#34;https://github.githubassets.com/images/search-key-slash.svg&#34; alt=&#34;&#34; class=&#34;mr-2 header-search-key-slash&#34;&gt;
+
+            &lt;div class=&#34;Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container&#34;&gt;
+              
+&lt;ul class=&#34;d-none js-jump-to-suggestions-template-container&#34;&gt;
+  
+
+&lt;li class=&#34;d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion&#34; role=&#34;option&#34;&gt;
+  &lt;a tabindex=&#34;-1&#34; class=&#34;no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2&#34; href=&#34;&#34;&gt;
+    &lt;div class=&#34;jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none&#34;&gt;
+      &lt;svg height=&#34;16&#34; width=&#34;16&#34; class=&#34;octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none&#34; title=&#34;Repository&#34; aria-label=&#34;Repository&#34; viewBox=&#34;0 0 12 16&#34; version=&#34;1.1&#34; role=&#34;img&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z&#34;/&gt;&lt;/svg&gt;
+      &lt;svg height=&#34;16&#34; width=&#34;16&#34; class=&#34;octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none&#34; title=&#34;Project&#34; aria-label=&#34;Project&#34; viewBox=&#34;0 0 15 16&#34; version=&#34;1.1&#34; role=&#34;img&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z&#34;/&gt;&lt;/svg&gt;
+      &lt;svg height=&#34;16&#34; width=&#34;16&#34; class=&#34;octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none&#34; title=&#34;Search&#34; aria-label=&#34;Search&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; role=&#34;img&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z&#34;/&gt;&lt;/svg&gt;
+    &lt;/div&gt;
+
+    &lt;img class=&#34;avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none&#34; alt=&#34;&#34; aria-label=&#34;Team&#34; src=&#34;&#34; width=&#34;28&#34; height=&#34;28&#34;&gt;
+
+    &lt;div class=&#34;jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target&#34;&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search&#34;&gt;
+      &lt;span class=&#34;js-jump-to-badge-search-text-default d-none&#34; aria-label=&#34;in this repository&#34;&gt;
+        In this repository
+      &lt;/span&gt;
+      &lt;span class=&#34;js-jump-to-badge-search-text-global d-none&#34; aria-label=&#34;in all of GitHub&#34;&gt;
+        All GitHub
+      &lt;/span&gt;
+      &lt;span aria-hidden=&#34;true&#34; class=&#34;d-inline-block ml-1 v-align-middle&#34;&gt;↵&lt;/span&gt;
+    &lt;/div&gt;
+
+    &lt;div aria-hidden=&#34;true&#34; class=&#34;border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump&#34;&gt;
+      Jump to
+      &lt;span class=&#34;d-inline-block ml-1 v-align-middle&#34;&gt;↵&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;ul class=&#34;d-none js-jump-to-no-results-template-container&#34;&gt;
+  &lt;li class=&#34;d-flex flex-justify-center flex-items-center f5 d-none js-jump-to-suggestion p-2&#34;&gt;
+    &lt;span class=&#34;text-gray&#34;&gt;No suggested jump to results&lt;/span&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ul id=&#34;jump-to-results&#34; role=&#34;listbox&#34; class=&#34;p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container&#34;&gt;
+  
+
+&lt;li class=&#34;d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none&#34; role=&#34;option&#34;&gt;
+  &lt;a tabindex=&#34;-1&#34; class=&#34;no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2&#34; href=&#34;&#34;&gt;
+    &lt;div class=&#34;jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none&#34;&gt;
+      &lt;svg height=&#34;16&#34; width=&#34;16&#34; class=&#34;octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none&#34; title=&#34;Repository&#34; aria-label=&#34;Repository&#34; viewBox=&#34;0 0 12 16&#34; version=&#34;1.1&#34; role=&#34;img&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z&#34;/&gt;&lt;/svg&gt;
+      &lt;svg height=&#34;16&#34; width=&#34;16&#34; class=&#34;octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none&#34; title=&#34;Project&#34; aria-label=&#34;Project&#34; viewBox=&#34;0 0 15 16&#34; version=&#34;1.1&#34; role=&#34;img&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z&#34;/&gt;&lt;/svg&gt;
+      &lt;svg height=&#34;16&#34; width=&#34;16&#34; class=&#34;octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none&#34; title=&#34;Search&#34; aria-label=&#34;Search&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; role=&#34;img&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z&#34;/&gt;&lt;/svg&gt;
+    &lt;/div&gt;
+
+    &lt;img class=&#34;avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none&#34; alt=&#34;&#34; aria-label=&#34;Team&#34; src=&#34;&#34; width=&#34;28&#34; height=&#34;28&#34;&gt;
+
+    &lt;div class=&#34;jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target&#34;&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search&#34;&gt;
+      &lt;span class=&#34;js-jump-to-badge-search-text-default d-none&#34; aria-label=&#34;in this repository&#34;&gt;
+        In this repository
+      &lt;/span&gt;
+      &lt;span class=&#34;js-jump-to-badge-search-text-global d-none&#34; aria-label=&#34;in all of GitHub&#34;&gt;
+        All GitHub
+      &lt;/span&gt;
+      &lt;span aria-hidden=&#34;true&#34; class=&#34;d-inline-block ml-1 v-align-middle&#34;&gt;↵&lt;/span&gt;
+    &lt;/div&gt;
+
+    &lt;div aria-hidden=&#34;true&#34; class=&#34;border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump&#34;&gt;
+      Jump to
+      &lt;span class=&#34;d-inline-block ml-1 v-align-middle&#34;&gt;↵&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+&lt;/li&gt;
+
+  
+
+&lt;li class=&#34;d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-global-search d-none&#34; role=&#34;option&#34;&gt;
+  &lt;a tabindex=&#34;-1&#34; class=&#34;no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2&#34; href=&#34;&#34;&gt;
+    &lt;div class=&#34;jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none&#34;&gt;
+      &lt;svg height=&#34;16&#34; width=&#34;16&#34; class=&#34;octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none&#34; title=&#34;Repository&#34; aria-label=&#34;Repository&#34; viewBox=&#34;0 0 12 16&#34; version=&#34;1.1&#34; role=&#34;img&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z&#34;/&gt;&lt;/svg&gt;
+      &lt;svg height=&#34;16&#34; width=&#34;16&#34; class=&#34;octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none&#34; title=&#34;Project&#34; aria-label=&#34;Project&#34; viewBox=&#34;0 0 15 16&#34; version=&#34;1.1&#34; role=&#34;img&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z&#34;/&gt;&lt;/svg&gt;
+      &lt;svg height=&#34;16&#34; width=&#34;16&#34; class=&#34;octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none&#34; title=&#34;Search&#34; aria-label=&#34;Search&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; role=&#34;img&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z&#34;/&gt;&lt;/svg&gt;
+    &lt;/div&gt;
+
+    &lt;img class=&#34;avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none&#34; alt=&#34;&#34; aria-label=&#34;Team&#34; src=&#34;&#34; width=&#34;28&#34; height=&#34;28&#34;&gt;
+
+    &lt;div class=&#34;jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target&#34;&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search&#34;&gt;
+      &lt;span class=&#34;js-jump-to-badge-search-text-default d-none&#34; aria-label=&#34;in this repository&#34;&gt;
+        In this repository
+      &lt;/span&gt;
+      &lt;span class=&#34;js-jump-to-badge-search-text-global d-none&#34; aria-label=&#34;in all of GitHub&#34;&gt;
+        All GitHub
+      &lt;/span&gt;
+      &lt;span aria-hidden=&#34;true&#34; class=&#34;d-inline-block ml-1 v-align-middle&#34;&gt;↵&lt;/span&gt;
+    &lt;/div&gt;
+
+    &lt;div aria-hidden=&#34;true&#34; class=&#34;border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump&#34;&gt;
+      Jump to
+      &lt;span class=&#34;d-inline-block ml-1 v-align-middle&#34;&gt;↵&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+&lt;/li&gt;
+
+
+    &lt;li class=&#34;d-flex flex-justify-center flex-items-center p-0 f5 js-jump-to-suggestion&#34;&gt;
+      &lt;img src=&#34;https://github.githubassets.com/images/spinners/octocat-spinner-128.gif&#34; alt=&#34;Octocat Spinner Icon&#34; class=&#34;m-2&#34; width=&#34;28&#34;&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+
+            &lt;/div&gt;
+      &lt;/label&gt;
+&lt;/form&gt;  &lt;/div&gt;
+&lt;/div&gt;
+
+
+      &lt;nav class=&#34;d-flex flex-column flex-lg-row flex-self-stretch flex-lg-self-auto&#34; aria-label=&#34;Global&#34;&gt;
+    &lt;a class=&#34;Header-link d-block d-lg-none py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15&#34; data-ga-click=&#34;Header, click, Nav menu - item:dashboard:user&#34; aria-label=&#34;Dashboard&#34; href=&#34;https://petkovich.github.io/dashboard&#34;&gt;
+      Dashboard
+&lt;/a&gt;
+  &lt;a class=&#34;js-selected-navigation-item Header-link  mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15&#34; data-hotkey=&#34;g p&#34; data-ga-click=&#34;Header, click, Nav menu - item:pulls context:user&#34; aria-label=&#34;Pull requests you created&#34; data-selected-links=&#34;/pulls /pulls/assigned /pulls/mentioned /pulls&#34; href=&#34;https://petkovich.github.io/pulls&#34;&gt;
+    Pull requests
+&lt;/a&gt;
+  &lt;a class=&#34;js-selected-navigation-item Header-link  mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15&#34; data-hotkey=&#34;g i&#34; data-ga-click=&#34;Header, click, Nav menu - item:issues context:user&#34; aria-label=&#34;Issues you created&#34; data-selected-links=&#34;/issues /issues/assigned /issues/mentioned /issues&#34; href=&#34;https://petkovich.github.io/issues&#34;&gt;
+    Issues
+&lt;/a&gt;
+    &lt;div class=&#34;mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15&#34;&gt;
+      &lt;a class=&#34;js-selected-navigation-item Header-link&#34; data-ga-click=&#34;Header, click, Nav menu - item:marketplace context:user&#34; data-octo-click=&#34;marketplace_click&#34; data-octo-dimensions=&#34;location:nav_bar&#34; data-selected-links=&#34; /marketplace&#34; href=&#34;https://petkovich.github.io/marketplace&#34;&gt;
+        Marketplace
+&lt;/a&gt;      
+
+    &lt;/div&gt;
+
+  &lt;a class=&#34;js-selected-navigation-item Header-link  mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15&#34; data-ga-click=&#34;Header, click, Nav menu - item:explore&#34; data-selected-links=&#34;/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore&#34; href=&#34;https://petkovich.github.io/explore&#34;&gt;
+    Explore
+&lt;/a&gt;
+
+
+    &lt;a class=&#34;Header-link d-block d-lg-none mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15&#34; href=&#34;https://github.com/petkovich&#34;&gt;
+      &lt;img class=&#34;avatar&#34; height=&#34;20&#34; width=&#34;20&#34; alt=&#34;@petkovich&#34; src=&#34;https://avatars3.githubusercontent.com/u/51706321?s=60&amp;amp;v=4&#34; /&gt;
+      petkovich
+&lt;/a&gt;
+    &lt;!-- &#39;&#34;` --&gt;&lt;!-- &lt;/textarea&gt;&lt;/xmp&gt; --&gt;&lt;/option&gt;&lt;/form&gt;&lt;form action=&#34;https://petkovich.github.io/logout&#34; accept-charset=&#34;UTF-8&#34; method=&#34;post&#34;&gt;&lt;input name=&#34;utf8&#34; type=&#34;hidden&#34; value=&#34;&amp;#x2713;&#34; /&gt;&lt;input type=&#34;hidden&#34; name=&#34;authenticity_token&#34; value=&#34;NmpbdwnLnFuPZJ2J01D9XlMLiTBrzPkdrCocFx2VGLTbUc6ZvghXQI6PSOZyBELLpTK4MdzPYkqW7+GkaylxTw==&#34; /&gt;
+      &lt;button type=&#34;submit&#34; class=&#34;Header-link mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15 d-lg-none btn-link d-block width-full text-left&#34; data-ga-click=&#34;Header, sign out, icon:logout&#34; style=&#34;padding-left: 2px;&#34;&gt;
+        &lt;svg class=&#34;octicon octicon-sign-out v-align-middle&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M12 9V7H8V5h4V3l4 3-4 3zm-2 3H6V3L2 1h8v3h1V1c0-.55-.45-1-1-1H1C.45 0 0 .45 0 1v11.38c0 .39.22.73.55.91L6 16.01V13h4c.55 0 1-.45 1-1V8h-1v4z&#34;/&gt;&lt;/svg&gt;
+        Sign out
+      &lt;/button&gt;
+&lt;/form&gt;&lt;/nav&gt;
+
+    &lt;/div&gt;
+
+    &lt;div class=&#34;Header-item Header-item--full flex-justify-center d-lg-none position-relative&#34;&gt;
+      &lt;div class=&#34;css-truncate css-truncate-target width-fit position-absolute left-0 right-0 text-center&#34;&gt;
+              &lt;svg class=&#34;octicon octicon-repo-forked&#34; viewBox=&#34;0 0 10 16&#34; version=&#34;1.1&#34; width=&#34;10&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z&#34;/&gt;&lt;/svg&gt;
+    &lt;a class=&#34;Header-link&#34; href=&#34;https://petkovich.github.io/ahadviger&#34;&gt;ahadviger&lt;/a&gt;
+    /
+    &lt;a class=&#34;Header-link&#34; href=&#34;https://petkovich.github.io/ahadviger/academic-kickstart&#34;&gt;academic-kickstart&lt;/a&gt;
+
+&lt;/div&gt;
+    &lt;/div&gt;
+
+
+    &lt;div class=&#34;Header-item mr-0 mr-lg-3 flex-order-1 flex-lg-order-none&#34;&gt;
+      
+
+    &lt;a aria-label=&#34;You have no unread notifications&#34; class=&#34;Header-link notification-indicator position-relative tooltipped tooltipped-s js-socket-channel js-notification-indicator&#34; data-hotkey=&#34;g n&#34; data-ga-click=&#34;Header, go to notifications, icon:read&#34; data-channel=&#34;notification-changed:51706321&#34; href=&#34;https://petkovich.github.io/notifications&#34;&gt;
+        &lt;span class=&#34;mail-status &#34;&gt;&lt;/span&gt;
+        &lt;svg class=&#34;octicon octicon-bell&#34; viewBox=&#34;0 0 14 16&#34; version=&#34;1.1&#34; width=&#34;14&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M14 12v1H0v-1l.73-.58c.77-.77.81-2.55 1.19-4.42C2.69 3.23 6 2 6 2c0-.55.45-1 1-1s1 .45 1 1c0 0 3.39 1.23 4.16 5 .38 1.88.42 3.66 1.19 4.42l.66.58H14zm-7 4c1.11 0 2-.89 2-2H5c0 1.11.89 2 2 2z&#34;/&gt;&lt;/svg&gt;
+&lt;/a&gt;
+    &lt;/div&gt;
+
+
+    &lt;div class=&#34;Header-item position-relative d-none d-lg-flex&#34;&gt;
+      &lt;details class=&#34;details-overlay details-reset&#34;&gt;
+  &lt;summary class=&#34;Header-link&#34;
+      aria-label=&#34;Create new…&#34;
+      data-ga-click=&#34;Header, create new, icon:add&#34;&gt;
+    &lt;svg class=&#34;octicon octicon-plus&#34; viewBox=&#34;0 0 12 16&#34; version=&#34;1.1&#34; width=&#34;12&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M12 9H7v5H5V9H0V7h5V2h2v5h5v2z&#34;/&gt;&lt;/svg&gt; &lt;span class=&#34;dropdown-caret&#34;&gt;&lt;/span&gt;
+  &lt;/summary&gt;
+  &lt;details-menu class=&#34;dropdown-menu dropdown-menu-sw&#34;&gt;
+    
+&lt;a role=&#34;menuitem&#34; class=&#34;dropdown-item&#34; href=&#34;https://petkovich.github.io/new&#34; data-ga-click=&#34;Header, create new repository&#34;&gt;
+  New repository
+&lt;/a&gt;
+
+  &lt;a role=&#34;menuitem&#34; class=&#34;dropdown-item&#34; href=&#34;https://petkovich.github.io/new/import&#34; data-ga-click=&#34;Header, import a repository&#34;&gt;
+    Import repository
+  &lt;/a&gt;
+
+&lt;a role=&#34;menuitem&#34; class=&#34;dropdown-item&#34; href=&#34;https://gist.github.com/&#34; data-ga-click=&#34;Header, create new gist&#34;&gt;
+  New gist
+&lt;/a&gt;
+
+  &lt;a role=&#34;menuitem&#34; class=&#34;dropdown-item&#34; href=&#34;https://petkovich.github.io/organizations/new&#34; data-ga-click=&#34;Header, create new organization&#34;&gt;
+    New organization
+  &lt;/a&gt;
+
+
+
+  &lt;a role=&#34;menuitem&#34; class=&#34;dropdown-item&#34; href=&#34;https://petkovich.github.io/new/project&#34; data-ga-click=&#34;Header, create new project&#34;&gt;
+    New project
+  &lt;/a&gt;
+
+  &lt;/details-menu&gt;
+&lt;/details&gt;
+
+    &lt;/div&gt;
+
+    &lt;div class=&#34;Header-item position-relative mr-0 d-none d-lg-flex&#34;&gt;
+      
+&lt;details class=&#34;details-overlay details-reset&#34;&gt;
+  &lt;summary class=&#34;Header-link&#34;
+    aria-label=&#34;View profile and more&#34;
+    data-ga-click=&#34;Header, show menu, icon:avatar&#34;&gt;
+    &lt;img alt=&#34;@petkovich&#34; class=&#34;avatar&#34; src=&#34;https://avatars0.githubusercontent.com/u/51706321?s=40&amp;amp;v=4&#34; height=&#34;20&#34; width=&#34;20&#34;&gt;
+    &lt;span class=&#34;dropdown-caret&#34;&gt;&lt;/span&gt;
+  &lt;/summary&gt;
+  &lt;details-menu class=&#34;dropdown-menu dropdown-menu-sw mt-2&#34; style=&#34;width: 180px&#34;&gt;
+    &lt;div class=&#34;header-nav-current-user css-truncate&#34;&gt;&lt;a role=&#34;menuitem&#34; class=&#34;no-underline user-profile-link px-3 pt-2 pb-2 mb-n2 mt-n1 d-block&#34; href=&#34;https://petkovich.github.io/petkovich&#34; data-ga-click=&#34;Header, go to profile, text:Signed in as&#34;&gt;Signed in as &lt;strong class=&#34;css-truncate-target&#34;&gt;petkovich&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+    &lt;div role=&#34;none&#34; class=&#34;dropdown-divider&#34;&gt;&lt;/div&gt;
+
+      &lt;div class=&#34;pl-3 pr-3 f6 user-status-container js-user-status-context pb-1&#34; data-url=&#34;/users/status?compact=1&amp;amp;link_mentions=0&amp;amp;truncate=1&#34;&gt;
+        
+&lt;div class=&#34;js-user-status-container
+    user-status-compact rounded-1 px-2 py-1 mt-2
+    border
+  &#34; data-team-hovercards-enabled&gt;
+  &lt;details class=&#34;js-user-status-details details-reset details-overlay details-overlay-dark&#34;&gt;
+    &lt;summary class=&#34;btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit &#34;
+      role=&#34;menuitem&#34; data-hydro-click=&#34;{&amp;quot;event_type&amp;quot;:&amp;quot;user_profile.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;profile_user_id&amp;quot;:7397752,&amp;quot;target&amp;quot;:&amp;quot;EDIT_USER_STATUS&amp;quot;,&amp;quot;user_id&amp;quot;:51706321,&amp;quot;client_id&amp;quot;:&amp;quot;1699378463.1555059938&amp;quot;,&amp;quot;originating_request_id&amp;quot;:&amp;quot;D040:433C3:279A637:3B9B858:5D8CAFB5&amp;quot;,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/ahadviger/academic-kickstart/blob/master/content/publication/event-lifetime/index.md&amp;quot;,&amp;quot;referrer&amp;quot;:&amp;quot;https://github.com/ahadviger/academic-kickstart/tree/master/content/publication/event-lifetime&amp;quot;}}&#34; data-hydro-click-hmac=&#34;442009ce5c0f044e6a96b61d16b83e598696ba689e4423f729733a4d0e7e53b1&#34;&gt;
+      &lt;div class=&#34;d-flex&#34;&gt;
+        &lt;div class=&#34;f6 lh-condensed user-status-header
+          d-inline-block v-align-middle
+            user-status-emoji-only-header circle
+            pr-2
+&#34;
+            style=&#34;max-width: 29px&#34;
+          &gt;
+          &lt;div class=&#34;user-status-emoji-container flex-shrink-0 mr-1 mt-1 lh-condensed-ultra v-align-bottom&#34; style=&#34;&#34;&gt;
+            &lt;svg class=&#34;octicon octicon-smiley&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M8 0C3.58 0 0 3.58 0 8s3.58 8 8 8 8-3.58 8-8-3.58-8-8-8zm4.81 12.81a6.72 6.72 0 0 1-2.17 1.45c-.83.36-1.72.53-2.64.53-.92 0-1.81-.17-2.64-.53-.81-.34-1.55-.83-2.17-1.45a6.773 6.773 0 0 1-1.45-2.17A6.59 6.59 0 0 1 1.21 8c0-.92.17-1.81.53-2.64.34-.81.83-1.55 1.45-2.17.62-.62 1.36-1.11 2.17-1.45A6.59 6.59 0 0 1 8 1.21c.92 0 1.81.17 2.64.53.81.34 1.55.83 2.17 1.45.62.62 1.11 1.36 1.45 2.17.36.83.53 1.72.53 2.64 0 .92-.17 1.81-.53 2.64-.34.81-.83 1.55-1.45 2.17zM4 6.8v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2H5.2C4.53 8 4 7.47 4 6.8zm5 0v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2h-.59C9.53 8 9 7.47 9 6.8zm4 3.2c-.72 1.88-2.91 3-5 3s-4.28-1.13-5-3c-.14-.39.23-1 .66-1h8.59c.41 0 .89.61.75 1z&#34;/&gt;&lt;/svg&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;
+          d-inline-block v-align-middle
+          
+          
+           css-truncate css-truncate-target 
+           user-status-message-wrapper f6&#34;
+           style=&#34;line-height: 20px;&#34; &gt;
+          &lt;div class=&#34;d-inline-block text-gray-dark v-align-text-top text-left&#34;&gt;
+              &lt;span class=&#34;text-gray ml-2&#34;&gt;Set status&lt;/span&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/summary&gt;
+    &lt;details-dialog class=&#34;details-dialog rounded-1 anim-fade-in fast Box Box--overlay&#34; role=&#34;dialog&#34; tabindex=&#34;-1&#34;&gt;
+      &lt;!-- &#39;&#34;` --&gt;&lt;!-- &lt;/textarea&gt;&lt;/xmp&gt; --&gt;&lt;/option&gt;&lt;/form&gt;&lt;form class=&#34;position-relative flex-auto js-user-status-form&#34; action=&#34;https://petkovich.github.io/users/status?compact=1&amp;amp;link_mentions=0&amp;amp;truncate=1&#34; accept-charset=&#34;UTF-8&#34; method=&#34;post&#34;&gt;&lt;input name=&#34;utf8&#34; type=&#34;hidden&#34; value=&#34;&amp;#x2713;&#34; /&gt;&lt;input type=&#34;hidden&#34; name=&#34;_method&#34; value=&#34;put&#34; /&gt;&lt;input type=&#34;hidden&#34; name=&#34;authenticity_token&#34; value=&#34;CAjvvk9MqBSfGuZVmRy29yBmUJs60bhUUWxAgOpFhbA6m7/jz2h4c6f1TIVIvrYFGuRq9gIf8bsQ60kiXRS8RA==&#34; /&gt;
+        &lt;div class=&#34;Box-header bg-gray border-bottom p-3&#34;&gt;
+          &lt;button class=&#34;Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right&#34; type=&#34;reset&#34; aria-label=&#34;Close dialog&#34; data-close-dialog&gt;
+            &lt;svg class=&#34;octicon octicon-x&#34; viewBox=&#34;0 0 12 16&#34; version=&#34;1.1&#34; width=&#34;12&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z&#34;/&gt;&lt;/svg&gt;
+          &lt;/button&gt;
+          &lt;h3 class=&#34;Box-title f5 text-bold text-gray-dark&#34;&gt;Edit status&lt;/h3&gt;
+        &lt;/div&gt;
+        &lt;input type=&#34;hidden&#34; name=&#34;emoji&#34; class=&#34;js-user-status-emoji-field&#34; value=&#34;&#34;&gt;
+        &lt;input type=&#34;hidden&#34; name=&#34;organization_id&#34; class=&#34;js-user-status-org-id-field&#34; value=&#34;&#34;&gt;
+        &lt;div class=&#34;px-3 py-2 text-gray-dark&#34;&gt;
+          &lt;div class=&#34;js-characters-remaining-container position-relative mt-2&#34;&gt;
+            &lt;div class=&#34;input-group d-table form-group my-0 js-user-status-form-group&#34;&gt;
+              &lt;span class=&#34;input-group-button d-table-cell v-align-middle&#34; style=&#34;width: 1%&#34;&gt;
+                &lt;button type=&#34;button&#34; aria-label=&#34;Choose an emoji&#34; class=&#34;btn-outline btn js-toggle-user-status-emoji-picker btn-open-emoji-picker p-0&#34;&gt;
+                  &lt;span class=&#34;js-user-status-original-emoji&#34; hidden&gt;&lt;/span&gt;
+                  &lt;span class=&#34;js-user-status-custom-emoji&#34;&gt;&lt;/span&gt;
+                  &lt;span class=&#34;js-user-status-no-emoji-icon&#34; &gt;
+                    &lt;svg class=&#34;octicon octicon-smiley&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M8 0C3.58 0 0 3.58 0 8s3.58 8 8 8 8-3.58 8-8-3.58-8-8-8zm4.81 12.81a6.72 6.72 0 0 1-2.17 1.45c-.83.36-1.72.53-2.64.53-.92 0-1.81-.17-2.64-.53-.81-.34-1.55-.83-2.17-1.45a6.773 6.773 0 0 1-1.45-2.17A6.59 6.59 0 0 1 1.21 8c0-.92.17-1.81.53-2.64.34-.81.83-1.55 1.45-2.17.62-.62 1.36-1.11 2.17-1.45A6.59 6.59 0 0 1 8 1.21c.92 0 1.81.17 2.64.53.81.34 1.55.83 2.17 1.45.62.62 1.11 1.36 1.45 2.17.36.83.53 1.72.53 2.64 0 .92-.17 1.81-.53 2.64-.34.81-.83 1.55-1.45 2.17zM4 6.8v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2H5.2C4.53 8 4 7.47 4 6.8zm5 0v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2h-.59C9.53 8 9 7.47 9 6.8zm4 3.2c-.72 1.88-2.91 3-5 3s-4.28-1.13-5-3c-.14-.39.23-1 .66-1h8.59c.41 0 .89.61.75 1z&#34;/&gt;&lt;/svg&gt;
+                  &lt;/span&gt;
+                &lt;/button&gt;
+              &lt;/span&gt;
+              &lt;text-expander keys=&#34;: @&#34; data-mention-url=&#34;/autocomplete/user-suggestions&#34; data-emoji-url=&#34;/autocomplete/emoji&#34;&gt;
+                &lt;input
+                  type=&#34;text&#34;
+                  autocomplete=&#34;off&#34;
+                  data-no-org-url=&#34;/autocomplete/user-suggestions&#34;
+                  data-org-url=&#34;/suggestions?mention_suggester=1&#34;
+                  data-maxlength=&#34;80&#34;
+                  class=&#34;d-table-cell width-full form-control js-user-status-message-field js-characters-remaining-field&#34;
+                  placeholder=&#34;What&#39;s happening?&#34;
+                  name=&#34;message&#34;
+                  value=&#34;&#34;
+                  aria-label=&#34;What is your current status?&#34;&gt;
+              &lt;/text-expander&gt;
+              &lt;div class=&#34;error&#34;&gt;Could not update your status, please try again.&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div style=&#34;margin-left: 53px&#34; class=&#34;my-1 text-small label-characters-remaining js-characters-remaining&#34; data-suffix=&#34;remaining&#34; hidden&gt;
+              80 remaining
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;include-fragment class=&#34;js-user-status-emoji-picker&#34; data-url=&#34;/users/status/emoji&#34;&gt;&lt;/include-fragment&gt;
+          &lt;div class=&#34;overflow-auto ml-n3 mr-n3 px-3 border-bottom&#34; style=&#34;max-height: 33vh&#34;&gt;
+            &lt;div class=&#34;user-status-suggestions js-user-status-suggestions collapsed overflow-hidden&#34;&gt;
+              &lt;h4 class=&#34;f6 text-normal my-3&#34;&gt;Suggestions:&lt;/h4&gt;
+              &lt;div class=&#34;mx-3 mt-2 clearfix&#34;&gt;
+                  &lt;div class=&#34;float-left col-6&#34;&gt;
+                      &lt;button type=&#34;button&#34; value=&#34;🌴&#34; class=&#34;d-flex flex-items-baseline flex-items-stretch lh-condensed f6 btn-link link-gray no-underline js-predefined-user-status mb-1&#34;&gt;
+                        &lt;div class=&#34;emoji-status-width mr-2 v-align-middle js-predefined-user-status-emoji&#34;&gt;
+                          &lt;g-emoji alias=&#34;palm_tree&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f334.png&#34;&gt;🌴&lt;/g-emoji&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&#34;d-flex flex-items-center no-underline js-predefined-user-status-message ws-normal text-left&#34; style=&#34;border-left: 1px solid transparent&#34;&gt;
+                          On vacation
+                        &lt;/div&gt;
+                      &lt;/button&gt;
+                      &lt;button type=&#34;button&#34; value=&#34;🤒&#34; class=&#34;d-flex flex-items-baseline flex-items-stretch lh-condensed f6 btn-link link-gray no-underline js-predefined-user-status mb-1&#34;&gt;
+                        &lt;div class=&#34;emoji-status-width mr-2 v-align-middle js-predefined-user-status-emoji&#34;&gt;
+                          &lt;g-emoji alias=&#34;face_with_thermometer&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f912.png&#34;&gt;🤒&lt;/g-emoji&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&#34;d-flex flex-items-center no-underline js-predefined-user-status-message ws-normal text-left&#34; style=&#34;border-left: 1px solid transparent&#34;&gt;
+                          Out sick
+                        &lt;/div&gt;
+                      &lt;/button&gt;
+                  &lt;/div&gt;
+                  &lt;div class=&#34;float-left col-6&#34;&gt;
+                      &lt;button type=&#34;button&#34; value=&#34;🏠&#34; class=&#34;d-flex flex-items-baseline flex-items-stretch lh-condensed f6 btn-link link-gray no-underline js-predefined-user-status mb-1&#34;&gt;
+                        &lt;div class=&#34;emoji-status-width mr-2 v-align-middle js-predefined-user-status-emoji&#34;&gt;
+                          &lt;g-emoji alias=&#34;house&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f3e0.png&#34;&gt;🏠&lt;/g-emoji&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&#34;d-flex flex-items-center no-underline js-predefined-user-status-message ws-normal text-left&#34; style=&#34;border-left: 1px solid transparent&#34;&gt;
+                          Working from home
+                        &lt;/div&gt;
+                      &lt;/button&gt;
+                      &lt;button type=&#34;button&#34; value=&#34;🎯&#34; class=&#34;d-flex flex-items-baseline flex-items-stretch lh-condensed f6 btn-link link-gray no-underline js-predefined-user-status mb-1&#34;&gt;
+                        &lt;div class=&#34;emoji-status-width mr-2 v-align-middle js-predefined-user-status-emoji&#34;&gt;
+                          &lt;g-emoji alias=&#34;dart&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f3af.png&#34;&gt;🎯&lt;/g-emoji&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&#34;d-flex flex-items-center no-underline js-predefined-user-status-message ws-normal text-left&#34; style=&#34;border-left: 1px solid transparent&#34;&gt;
+                          Focusing
+                        &lt;/div&gt;
+                      &lt;/button&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;user-status-limited-availability-container&#34;&gt;
+              &lt;div class=&#34;form-checkbox my-0&#34;&gt;
+                &lt;input type=&#34;checkbox&#34; name=&#34;limited_availability&#34; value=&#34;1&#34; class=&#34;js-user-status-limited-availability-checkbox&#34; data-default-message=&#34;I may be slow to respond.&#34; aria-describedby=&#34;limited-availability-help-text-truncate-true-compact-true&#34; id=&#34;limited-availability-truncate-true-compact-true&#34;&gt;
+                &lt;label class=&#34;d-block f5 text-gray-dark mb-1&#34; for=&#34;limited-availability-truncate-true-compact-true&#34;&gt;
+                  Busy
+                &lt;/label&gt;
+                &lt;p class=&#34;note&#34; id=&#34;limited-availability-help-text-truncate-true-compact-true&#34;&gt;
+                  When others mention you, assign you, or request your review,
+                  GitHub will let them know that you have limited availability.
+                &lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+            
+
+&lt;div class=&#34;d-inline-block f5 mr-2 pt-3 pb-2&#34; &gt;
+  &lt;div class=&#34;d-inline-block mr-1&#34;&gt;
+    Clear status
+  &lt;/div&gt;
+
+  &lt;details class=&#34;js-user-status-expire-drop-down f6 dropdown details-reset details-overlay d-inline-block mr-2&#34;&gt;
+    &lt;summary class=&#34;f5 btn-link link-gray-dark border px-2 py-1 rounded-1&#34; aria-haspopup=&#34;true&#34;&gt;
+      &lt;div class=&#34;js-user-status-expiration-interval-selected d-inline-block v-align-baseline&#34;&gt;
+        Never
+      &lt;/div&gt;
+      &lt;div class=&#34;dropdown-caret&#34;&gt;&lt;/div&gt;
+    &lt;/summary&gt;
+
+    &lt;ul class=&#34;dropdown-menu dropdown-menu-se pl-0 overflow-auto&#34; style=&#34;width: 220px; max-height: 15.5em&#34;&gt;
+      &lt;li&gt;
+        &lt;button type=&#34;button&#34; class=&#34;btn-link dropdown-item js-user-status-expire-button ws-normal&#34; title=&#34;Never&#34;&gt;
+          &lt;span class=&#34;d-inline-block text-bold mb-1&#34;&gt;Never&lt;/span&gt;
+          &lt;div class=&#34;f6 lh-condensed&#34;&gt;Keep this status until you clear your status or edit your status.&lt;/div&gt;
+        &lt;/button&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;dropdown-divider&#34; role=&#34;none&#34;&gt;&lt;/li&gt;
+        &lt;li&gt;
+          &lt;button type=&#34;button&#34; class=&#34;btn-link dropdown-item ws-normal js-user-status-expire-button&#34; title=&#34;in 30 minutes&#34; value=&#34;2019-09-26T15:01:57+02:00&#34;&gt;
+            in 30 minutes
+          &lt;/button&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+          &lt;button type=&#34;button&#34; class=&#34;btn-link dropdown-item ws-normal js-user-status-expire-button&#34; title=&#34;in 1 hour&#34; value=&#34;2019-09-26T15:31:57+02:00&#34;&gt;
+            in 1 hour
+          &lt;/button&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+          &lt;button type=&#34;button&#34; class=&#34;btn-link dropdown-item ws-normal js-user-status-expire-button&#34; title=&#34;in 4 hours&#34; value=&#34;2019-09-26T18:31:57+02:00&#34;&gt;
+            in 4 hours
+          &lt;/button&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+          &lt;button type=&#34;button&#34; class=&#34;btn-link dropdown-item ws-normal js-user-status-expire-button&#34; title=&#34;today&#34; value=&#34;2019-09-26T23:59:59+02:00&#34;&gt;
+            today
+          &lt;/button&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+          &lt;button type=&#34;button&#34; class=&#34;btn-link dropdown-item ws-normal js-user-status-expire-button&#34; title=&#34;this week&#34; value=&#34;2019-09-29T23:59:59+02:00&#34;&gt;
+            this week
+          &lt;/button&gt;
+        &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/details&gt;
+  &lt;input class=&#34;js-user-status-expiration-date-input&#34; type=&#34;hidden&#34; name=&#34;expires_at&#34; value=&#34;&#34;&gt;
+&lt;/div&gt;
+
+          &lt;include-fragment class=&#34;js-user-status-org-picker&#34; data-url=&#34;/users/status/organizations&#34;&gt;&lt;/include-fragment&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;d-flex flex-items-center flex-justify-between p-3 border-top&#34;&gt;
+          &lt;button type=&#34;submit&#34; disabled class=&#34;width-full btn btn-primary mr-2 js-user-status-submit&#34;&gt;
+            Set status
+          &lt;/button&gt;
+          &lt;button type=&#34;button&#34; disabled class=&#34;width-full js-clear-user-status-button btn ml-2 &#34;&gt;
+            Clear status
+          &lt;/button&gt;
+        &lt;/div&gt;
+&lt;/form&gt;    &lt;/details-dialog&gt;
+  &lt;/details&gt;
+&lt;/div&gt;
+
+      &lt;/div&gt;
+      &lt;div role=&#34;none&#34; class=&#34;dropdown-divider&#34;&gt;&lt;/div&gt;
+
+
+    &lt;a role=&#34;menuitem&#34; class=&#34;dropdown-item&#34; href=&#34;https://petkovich.github.io/petkovich&#34; data-ga-click=&#34;Header, go to profile, text:your profile&#34;&gt;Your profile&lt;/a&gt;
+
+
+    &lt;a role=&#34;menuitem&#34; class=&#34;dropdown-item&#34; href=&#34;https://petkovich.github.io/petkovich?tab=repositories&#34; data-ga-click=&#34;Header, go to repositories, text:your repositories&#34;&gt;Your repositories&lt;/a&gt;
+
+    &lt;a role=&#34;menuitem&#34; class=&#34;dropdown-item&#34; href=&#34;https://petkovich.github.io/petkovich?tab=projects&#34; data-ga-click=&#34;Header, go to projects, text:your projects&#34;&gt;Your projects&lt;/a&gt;
+
+    &lt;a role=&#34;menuitem&#34; class=&#34;dropdown-item&#34; href=&#34;https://petkovich.github.io/petkovich?tab=stars&#34; data-ga-click=&#34;Header, go to starred repos, text:your stars&#34;&gt;Your stars&lt;/a&gt;
+      &lt;a role=&#34;menuitem&#34; class=&#34;dropdown-item&#34; href=&#34;https://gist.github.com/mine&#34; data-ga-click=&#34;Header, your gists, text:your gists&#34;&gt;Your gists&lt;/a&gt;
+
+
+    &lt;div role=&#34;none&#34; class=&#34;dropdown-divider&#34;&gt;&lt;/div&gt;
+    &lt;a role=&#34;menuitem&#34; class=&#34;dropdown-item&#34; href=&#34;https://help.github.com&#34; data-ga-click=&#34;Header, go to help, text:help&#34;&gt;Help&lt;/a&gt;
+    &lt;a role=&#34;menuitem&#34; class=&#34;dropdown-item&#34; href=&#34;https://petkovich.github.io/settings/profile&#34; data-ga-click=&#34;Header, go to settings, icon:settings&#34;&gt;Settings&lt;/a&gt;
+    &lt;!-- &#39;&#34;` --&gt;&lt;!-- &lt;/textarea&gt;&lt;/xmp&gt; --&gt;&lt;/option&gt;&lt;/form&gt;&lt;form class=&#34;logout-form&#34; action=&#34;https://petkovich.github.io/logout&#34; accept-charset=&#34;UTF-8&#34; method=&#34;post&#34;&gt;&lt;input name=&#34;utf8&#34; type=&#34;hidden&#34; value=&#34;&amp;#x2713;&#34; /&gt;&lt;input type=&#34;hidden&#34; name=&#34;authenticity_token&#34; value=&#34;8QoG5IKhE41ns3VNGE6d+nAeZ2kvPJOiEQM3LGI6zD4cMZMKNWLYlmZYoCK5GiJvhidWaJg/CPUrxsqfFIalxQ==&#34; /&gt;
+      
+      &lt;button type=&#34;submit&#34; class=&#34;dropdown-item dropdown-signout&#34; data-ga-click=&#34;Header, sign out, icon:logout&#34; role=&#34;menuitem&#34;&gt;
+        Sign out
+      &lt;/button&gt;
+&lt;/form&gt;  &lt;/details-menu&gt;
+&lt;/details&gt;
+
+    &lt;/div&gt;
+
+  &lt;/header&gt;
+
+      
+
+  &lt;/div&gt;
+
+  &lt;div id=&#34;start-of-content&#34; class=&#34;show-on-focus&#34;&gt;&lt;/div&gt;
+
+
+    &lt;div id=&#34;js-flash-container&#34;&gt;
+
+&lt;/div&gt;
+
+
+
+  &lt;div class=&#34;application-main &#34; data-commit-hovercards-enabled&gt;
+        &lt;div itemscope itemtype=&#34;http://schema.org/SoftwareSourceCode&#34; class=&#34;&#34;&gt;
+    &lt;main  &gt;
+      
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  &lt;div class=&#34;pagehead repohead instapaper_ignore readability-menu experiment-repo-nav pt-0 pt-lg-4 &#34;&gt;
+    &lt;div class=&#34;repohead-details-container clearfix container-lg p-responsive d-none d-lg-block&#34;&gt;
+
+      &lt;ul class=&#34;pagehead-actions&#34;&gt;
+
+
+
+
+  &lt;li&gt;
+    
+    &lt;!-- &#39;&#34;` --&gt;&lt;!-- &lt;/textarea&gt;&lt;/xmp&gt; --&gt;&lt;/option&gt;&lt;/form&gt;&lt;form data-remote=&#34;true&#34; class=&#34;clearfix js-social-form js-social-container&#34; action=&#34;https://petkovich.github.io/notifications/subscribe&#34; accept-charset=&#34;UTF-8&#34; method=&#34;post&#34;&gt;&lt;input name=&#34;utf8&#34; type=&#34;hidden&#34; value=&#34;&amp;#x2713;&#34; /&gt;&lt;input type=&#34;hidden&#34; name=&#34;authenticity_token&#34; value=&#34;fe0ldngz/T2pu4wno7UK9bHO0zvG2zODTYdMMKx0dpl+ME9G+i2OG/VuA2g6pXjc9347XvPyVg3k8uX6170koQ==&#34; /&gt;      &lt;input type=&#34;hidden&#34; name=&#34;repository_id&#34; value=&#34;208497216&#34;&gt;
+
+      &lt;details class=&#34;details-reset details-overlay select-menu float-left&#34;&gt;
+        &lt;summary class=&#34;select-menu-button float-left btn btn-sm btn-with-count&#34; data-hydro-click=&#34;{&amp;quot;event_type&amp;quot;:&amp;quot;repository.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;target&amp;quot;:&amp;quot;WATCH_BUTTON&amp;quot;,&amp;quot;repository_id&amp;quot;:208497216,&amp;quot;client_id&amp;quot;:&amp;quot;1699378463.1555059938&amp;quot;,&amp;quot;originating_request_id&amp;quot;:&amp;quot;D040:433C3:279A637:3B9B858:5D8CAFB5&amp;quot;,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/ahadviger/academic-kickstart/blob/master/content/publication/event-lifetime/index.md&amp;quot;,&amp;quot;referrer&amp;quot;:&amp;quot;https://github.com/ahadviger/academic-kickstart/tree/master/content/publication/event-lifetime&amp;quot;,&amp;quot;user_id&amp;quot;:51706321}}&#34; data-hydro-click-hmac=&#34;fbd3df4b51d522d8ad35b0cc8a72cb3655ec9c93dc3ec635599e9bd2e81692de&#34; data-ga-click=&#34;Repository, click Watch settings, action:blob#show&#34;&gt;          &lt;span data-menu-button&gt;
+              &lt;svg class=&#34;octicon octicon-eye v-align-text-bottom&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z&#34;/&gt;&lt;/svg&gt;
+              Watch
+          &lt;/span&gt;
+&lt;/summary&gt;        &lt;details-menu
+          class=&#34;select-menu-modal position-absolute mt-5&#34;
+          style=&#34;z-index: 99;&#34;&gt;
+          &lt;div class=&#34;select-menu-header&#34;&gt;
+            &lt;span class=&#34;select-menu-title&#34;&gt;Notifications&lt;/span&gt;
+          &lt;/div&gt;
+          &lt;div class=&#34;select-menu-list&#34;&gt;
+            &lt;button type=&#34;submit&#34; name=&#34;do&#34; value=&#34;included&#34; class=&#34;select-menu-item width-full&#34; aria-checked=&#34;true&#34; role=&#34;menuitemradio&#34;&gt;
+              &lt;svg class=&#34;octicon octicon-check select-menu-item-icon&#34; viewBox=&#34;0 0 12 16&#34; version=&#34;1.1&#34; width=&#34;12&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z&#34;/&gt;&lt;/svg&gt;
+              &lt;div class=&#34;select-menu-item-text&#34;&gt;
+                &lt;span class=&#34;select-menu-item-heading&#34;&gt;Not watching&lt;/span&gt;
+                &lt;span class=&#34;description&#34;&gt;Be notified only when participating or @mentioned.&lt;/span&gt;
+                &lt;span class=&#34;hidden-select-button-text&#34; data-menu-button-contents&gt;
+                  &lt;svg class=&#34;octicon octicon-eye v-align-text-bottom&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z&#34;/&gt;&lt;/svg&gt;
+                  Watch
+                &lt;/span&gt;
+              &lt;/div&gt;
+            &lt;/button&gt;
+
+            &lt;button type=&#34;submit&#34; name=&#34;do&#34; value=&#34;release_only&#34; class=&#34;select-menu-item width-full&#34; aria-checked=&#34;false&#34; role=&#34;menuitemradio&#34;&gt;
+              &lt;svg class=&#34;octicon octicon-check select-menu-item-icon&#34; viewBox=&#34;0 0 12 16&#34; version=&#34;1.1&#34; width=&#34;12&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z&#34;/&gt;&lt;/svg&gt;
+              &lt;div class=&#34;select-menu-item-text&#34;&gt;
+                &lt;span class=&#34;select-menu-item-heading&#34;&gt;Releases only&lt;/span&gt;
+                &lt;span class=&#34;description&#34;&gt;Be notified of new releases, and when participating or @mentioned.&lt;/span&gt;
+                &lt;span class=&#34;hidden-select-button-text&#34; data-menu-button-contents&gt;
+                  &lt;svg class=&#34;octicon octicon-eye v-align-text-bottom&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z&#34;/&gt;&lt;/svg&gt;
+                  Unwatch releases
+                &lt;/span&gt;
+              &lt;/div&gt;
+            &lt;/button&gt;
+
+            &lt;button type=&#34;submit&#34; name=&#34;do&#34; value=&#34;subscribed&#34; class=&#34;select-menu-item width-full&#34; aria-checked=&#34;false&#34; role=&#34;menuitemradio&#34;&gt;
+              &lt;svg class=&#34;octicon octicon-check select-menu-item-icon&#34; viewBox=&#34;0 0 12 16&#34; version=&#34;1.1&#34; width=&#34;12&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z&#34;/&gt;&lt;/svg&gt;
+              &lt;div class=&#34;select-menu-item-text&#34;&gt;
+                &lt;span class=&#34;select-menu-item-heading&#34;&gt;Watching&lt;/span&gt;
+                &lt;span class=&#34;description&#34;&gt;Be notified of all conversations.&lt;/span&gt;
+                &lt;span class=&#34;hidden-select-button-text&#34; data-menu-button-contents&gt;
+                  &lt;svg class=&#34;octicon octicon-eye v-align-text-bottom&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z&#34;/&gt;&lt;/svg&gt;
+                  Unwatch
+                &lt;/span&gt;
+              &lt;/div&gt;
+            &lt;/button&gt;
+
+            &lt;button type=&#34;submit&#34; name=&#34;do&#34; value=&#34;ignore&#34; class=&#34;select-menu-item width-full&#34; aria-checked=&#34;false&#34; role=&#34;menuitemradio&#34;&gt;
+              &lt;svg class=&#34;octicon octicon-check select-menu-item-icon&#34; viewBox=&#34;0 0 12 16&#34; version=&#34;1.1&#34; width=&#34;12&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z&#34;/&gt;&lt;/svg&gt;
+              &lt;div class=&#34;select-menu-item-text&#34;&gt;
+                &lt;span class=&#34;select-menu-item-heading&#34;&gt;Ignoring&lt;/span&gt;
+                &lt;span class=&#34;description&#34;&gt;Never be notified.&lt;/span&gt;
+                &lt;span class=&#34;hidden-select-button-text&#34; data-menu-button-contents&gt;
+                  &lt;svg class=&#34;octicon octicon-mute v-align-text-bottom&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M8 2.81v10.38c0 .67-.81 1-1.28.53L3 10H1c-.55 0-1-.45-1-1V7c0-.55.45-1 1-1h2l3.72-3.72C7.19 1.81 8 2.14 8 2.81zm7.53 3.22l-1.06-1.06-1.97 1.97-1.97-1.97-1.06 1.06L11.44 8 9.47 9.97l1.06 1.06 1.97-1.97 1.97 1.97 1.06-1.06L13.56 8l1.97-1.97z&#34;/&gt;&lt;/svg&gt;
+                  Stop ignoring
+                &lt;/span&gt;
+              &lt;/div&gt;
+            &lt;/button&gt;
+          &lt;/div&gt;
+        &lt;/details-menu&gt;
+      &lt;/details&gt;
+        &lt;a class=&#34;social-count js-social-count&#34;
+          href=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/watchers&#34;
+          aria-label=&#34;0 users are watching this repository&#34;&gt;
+          0
+        &lt;/a&gt;
+&lt;/form&gt;
+  &lt;/li&gt;
+
+  &lt;li&gt;
+      &lt;div class=&#34;js-toggler-container js-social-container starring-container &#34;&gt;
+    &lt;!-- &#39;&#34;` --&gt;&lt;!-- &lt;/textarea&gt;&lt;/xmp&gt; --&gt;&lt;/option&gt;&lt;/form&gt;&lt;form class=&#34;starred js-social-form&#34; action=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/unstar&#34; accept-charset=&#34;UTF-8&#34; method=&#34;post&#34;&gt;&lt;input name=&#34;utf8&#34; type=&#34;hidden&#34; value=&#34;&amp;#x2713;&#34; /&gt;&lt;input type=&#34;hidden&#34; name=&#34;authenticity_token&#34; value=&#34;P+wuz6YrVgYk/FAiI9EM3LHCZT48nP6EW4z5XF00ENh36JbOBPkWerMmTBk1Hr5NuRn7mcEnF/XagS2K02pcjQ==&#34; /&gt;
+      &lt;input type=&#34;hidden&#34; name=&#34;context&#34; value=&#34;repository&#34;&gt;&lt;/input&gt;
+      &lt;button type=&#34;submit&#34; class=&#34;btn btn-sm btn-with-count js-toggler-target&#34; aria-label=&#34;Unstar this repository&#34; title=&#34;Unstar ahadviger/academic-kickstart&#34; data-hydro-click=&#34;{&amp;quot;event_type&amp;quot;:&amp;quot;repository.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;target&amp;quot;:&amp;quot;UNSTAR_BUTTON&amp;quot;,&amp;quot;repository_id&amp;quot;:208497216,&amp;quot;client_id&amp;quot;:&amp;quot;1699378463.1555059938&amp;quot;,&amp;quot;originating_request_id&amp;quot;:&amp;quot;D040:433C3:279A637:3B9B858:5D8CAFB5&amp;quot;,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/ahadviger/academic-kickstart/blob/master/content/publication/event-lifetime/index.md&amp;quot;,&amp;quot;referrer&amp;quot;:&amp;quot;https://github.com/ahadviger/academic-kickstart/tree/master/content/publication/event-lifetime&amp;quot;,&amp;quot;user_id&amp;quot;:51706321}}&#34; data-hydro-click-hmac=&#34;69fe427974ba1010b83be5e815e17143eca96a3c25f89459ec6282f3948ac555&#34; data-ga-click=&#34;Repository, click unstar button, action:blob#show; text:Unstar&#34;&gt;        &lt;svg class=&#34;octicon octicon-star v-align-text-bottom&#34; viewBox=&#34;0 0 14 16&#34; version=&#34;1.1&#34; width=&#34;14&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z&#34;/&gt;&lt;/svg&gt;
+        Unstar
+&lt;/button&gt;        &lt;a class=&#34;social-count js-social-count&#34; href=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/stargazers&#34;
+           aria-label=&#34;0 users starred this repository&#34;&gt;
+           0
+        &lt;/a&gt;
+&lt;/form&gt;
+    &lt;!-- &#39;&#34;` --&gt;&lt;!-- &lt;/textarea&gt;&lt;/xmp&gt; --&gt;&lt;/option&gt;&lt;/form&gt;&lt;form class=&#34;unstarred js-social-form&#34; action=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/star&#34; accept-charset=&#34;UTF-8&#34; method=&#34;post&#34;&gt;&lt;input name=&#34;utf8&#34; type=&#34;hidden&#34; value=&#34;&amp;#x2713;&#34; /&gt;&lt;input type=&#34;hidden&#34; name=&#34;authenticity_token&#34; value=&#34;VHZmj0DOXg9hC+W9NaYBJe0758yRwUp9D2ZYPeiXy05d+lupK8YDZJ8GRFha/+7xCTyKzp/0devMfgsBngLP7A==&#34; /&gt;
+      &lt;input type=&#34;hidden&#34; name=&#34;context&#34; value=&#34;repository&#34;&gt;&lt;/input&gt;
+      &lt;button type=&#34;submit&#34; class=&#34;btn btn-sm btn-with-count js-toggler-target&#34; aria-label=&#34;Unstar this repository&#34; title=&#34;Star ahadviger/academic-kickstart&#34; data-hydro-click=&#34;{&amp;quot;event_type&amp;quot;:&amp;quot;repository.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;target&amp;quot;:&amp;quot;STAR_BUTTON&amp;quot;,&amp;quot;repository_id&amp;quot;:208497216,&amp;quot;client_id&amp;quot;:&amp;quot;1699378463.1555059938&amp;quot;,&amp;quot;originating_request_id&amp;quot;:&amp;quot;D040:433C3:279A637:3B9B858:5D8CAFB5&amp;quot;,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/ahadviger/academic-kickstart/blob/master/content/publication/event-lifetime/index.md&amp;quot;,&amp;quot;referrer&amp;quot;:&amp;quot;https://github.com/ahadviger/academic-kickstart/tree/master/content/publication/event-lifetime&amp;quot;,&amp;quot;user_id&amp;quot;:51706321}}&#34; data-hydro-click-hmac=&#34;ee8796c25bf7a017b6eb3c546dfa9b9fd96c703c174c545f20b90858f11490be&#34; data-ga-click=&#34;Repository, click star button, action:blob#show; text:Star&#34;&gt;        &lt;svg class=&#34;octicon octicon-star v-align-text-bottom&#34; viewBox=&#34;0 0 14 16&#34; version=&#34;1.1&#34; width=&#34;14&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z&#34;/&gt;&lt;/svg&gt;
+        Star
+&lt;/button&gt;        &lt;a class=&#34;social-count js-social-count&#34; href=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/stargazers&#34;
+           aria-label=&#34;0 users starred this repository&#34;&gt;
+          0
+        &lt;/a&gt;
+&lt;/form&gt;  &lt;/div&gt;
+
+  &lt;/li&gt;
+
+  &lt;li&gt;
+          &lt;!-- &#39;&#34;` --&gt;&lt;!-- &lt;/textarea&gt;&lt;/xmp&gt; --&gt;&lt;/option&gt;&lt;/form&gt;&lt;form class=&#34;btn-with-count&#34; action=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/fork&#34; accept-charset=&#34;UTF-8&#34; method=&#34;post&#34;&gt;&lt;input name=&#34;utf8&#34; type=&#34;hidden&#34; value=&#34;&amp;#x2713;&#34; /&gt;&lt;input type=&#34;hidden&#34; name=&#34;authenticity_token&#34; value=&#34;Fqek0OlYwNOIxIUfdSn9CyzgjiPtg0g7qkyDW5VxjHXifgjPvkSaVTFSmy3WvOnU5u4ExnfuBtGSO4MUbA7a/w==&#34; /&gt;
+            &lt;button class=&#34;btn btn-sm btn-with-count&#34; data-hydro-click=&#34;{&amp;quot;event_type&amp;quot;:&amp;quot;repository.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;target&amp;quot;:&amp;quot;FORK_BUTTON&amp;quot;,&amp;quot;repository_id&amp;quot;:208497216,&amp;quot;client_id&amp;quot;:&amp;quot;1699378463.1555059938&amp;quot;,&amp;quot;originating_request_id&amp;quot;:&amp;quot;D040:433C3:279A637:3B9B858:5D8CAFB5&amp;quot;,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/ahadviger/academic-kickstart/blob/master/content/publication/event-lifetime/index.md&amp;quot;,&amp;quot;referrer&amp;quot;:&amp;quot;https://github.com/ahadviger/academic-kickstart/tree/master/content/publication/event-lifetime&amp;quot;,&amp;quot;user_id&amp;quot;:51706321}}&#34; data-hydro-click-hmac=&#34;1ed6f2ca877e355884813a5e5c44cfca32ad660b5a914779dc6f46225af211f1&#34; data-ga-click=&#34;Repository, show fork modal, action:blob#show; text:Fork&#34; type=&#34;submit&#34; title=&#34;Fork your own copy of ahadviger/academic-kickstart to your account&#34; aria-label=&#34;Fork your own copy of ahadviger/academic-kickstart to your account&#34;&gt;              &lt;svg class=&#34;octicon octicon-repo-forked v-align-text-bottom&#34; viewBox=&#34;0 0 10 16&#34; version=&#34;1.1&#34; width=&#34;10&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z&#34;/&gt;&lt;/svg&gt;
+              Fork
+&lt;/button&gt;&lt;/form&gt;
+    &lt;a href=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/network/members&#34; class=&#34;social-count&#34;
+       aria-label=&#34;2034 users forked this repository&#34;&gt;
+      2,034
+    &lt;/a&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+      &lt;h1 class=&#34;public &#34;&gt;
+      &lt;svg class=&#34;octicon v-align-middle&#34; width=&#34;14&#34; height=&#34;16&#34; viewBox=&#34;0 0 14 16&#34; fill=&#34;none&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+  &lt;path fill-rule=&#34;evenodd&#34; clip-rule=&#34;evenodd&#34; d=&#34;M3 9H4V8H3V9ZM3 6H4V7H3V6ZM3 4H4V5H3V4ZM3 2H4V3H3V2ZM12 8V1C12 0.45 11.55 0 11 0H1C0.45 0 0 0.45 0 1V13C0 13.55 0.45 14 1 14H3V16L4.5 14.5L6 16V14V13V12H3V13H1V11H6H8V10H2V1H11V8H12ZM8 12H10V10H12V12H14V14H12V16H10V14H8V12Z&#34; fill=&#34;#6A737D&#34;/&gt;
+&lt;/svg&gt;
+
+  &lt;span class=&#34;author&#34; itemprop=&#34;author&#34;&gt;&lt;a class=&#34;url fn&#34; rel=&#34;author&#34; data-hovercard-type=&#34;user&#34; data-hovercard-url=&#34;/hovercards?user_id=7397752&#34; data-octo-click=&#34;hovercard-link-click&#34; data-octo-dimensions=&#34;link_type:self&#34; href=&#34;https://petkovich.github.io/ahadviger&#34;&gt;ahadviger&lt;/a&gt;&lt;/span&gt;&lt;!--
+--&gt;&lt;span class=&#34;path-divider&#34;&gt;/&lt;/span&gt;&lt;!--
+--&gt;&lt;strong itemprop=&#34;name&#34;&gt;&lt;a data-pjax=&#34;#js-repo-pjax-container&#34; href=&#34;https://petkovich.github.io/ahadviger/academic-kickstart&#34;&gt;academic-kickstart&lt;/a&gt;&lt;/strong&gt;
+  &lt;span class=&#34;Label Label--outline v-align-middle &#34;&gt;Template&lt;/span&gt;
+
+    &lt;span class=&#34;fork-flag&#34; data-repository-hovercards-enabled&gt;
+      &lt;span class=&#34;text&#34;&gt;forked from &lt;a data-hovercard-type=&#34;repository&#34; data-hovercard-url=&#34;/sourcethemes/academic-kickstart/hovercard&#34; href=&#34;https://petkovich.github.io/sourcethemes/academic-kickstart&#34;&gt;sourcethemes/academic-kickstart&lt;/a&gt;&lt;/span&gt;
+    &lt;/span&gt;
+&lt;/h1&gt;
+
+    &lt;/div&gt;
+    
+&lt;nav class=&#34;hx_reponav reponav js-repo-nav js-sidenav-container-pjax container-lg p-responsive d-none d-lg-block&#34;
+     itemscope
+     itemtype=&#34;http://schema.org/BreadcrumbList&#34;
+    aria-label=&#34;Repository&#34;
+     data-pjax=&#34;#js-repo-pjax-container&#34;&gt;
+
+  &lt;span itemscope itemtype=&#34;http://schema.org/ListItem&#34; itemprop=&#34;itemListElement&#34;&gt;
+    &lt;a class=&#34;js-selected-navigation-item selected reponav-item&#34; itemprop=&#34;url&#34; data-hotkey=&#34;g c&#34; aria-current=&#34;page&#34; data-selected-links=&#34;repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /ahadviger/academic-kickstart&#34; href=&#34;https://petkovich.github.io/ahadviger/academic-kickstart&#34;&gt;
+      &lt;svg class=&#34;octicon octicon-code&#34; viewBox=&#34;0 0 14 16&#34; version=&#34;1.1&#34; width=&#34;14&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z&#34;/&gt;&lt;/svg&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;Code&lt;/span&gt;
+      &lt;meta itemprop=&#34;position&#34; content=&#34;1&#34;&gt;
+&lt;/a&gt;  &lt;/span&gt;
+
+
+  &lt;span itemscope itemtype=&#34;http://schema.org/ListItem&#34; itemprop=&#34;itemListElement&#34;&gt;
+    &lt;a data-hotkey=&#34;g p&#34; itemprop=&#34;url&#34; class=&#34;js-selected-navigation-item reponav-item&#34; data-selected-links=&#34;repo_pulls checks /ahadviger/academic-kickstart/pulls&#34; href=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/pulls&#34;&gt;
+      &lt;svg class=&#34;octicon octicon-git-pull-request&#34; viewBox=&#34;0 0 12 16&#34; version=&#34;1.1&#34; width=&#34;12&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z&#34;/&gt;&lt;/svg&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;Pull requests&lt;/span&gt;
+      &lt;span class=&#34;Counter&#34;&gt;0&lt;/span&gt;
+      &lt;meta itemprop=&#34;position&#34; content=&#34;3&#34;&gt;
+&lt;/a&gt;  &lt;/span&gt;
+
+
+    &lt;a data-hotkey=&#34;g b&#34; class=&#34;js-selected-navigation-item reponav-item&#34; data-selected-links=&#34;repo_projects new_repo_project repo_project /ahadviger/academic-kickstart/projects&#34; href=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/projects&#34;&gt;
+      &lt;svg class=&#34;octicon octicon-project&#34; viewBox=&#34;0 0 15 16&#34; version=&#34;1.1&#34; width=&#34;15&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z&#34;/&gt;&lt;/svg&gt;
+      Projects
+      &lt;span class=&#34;Counter&#34; &gt;0&lt;/span&gt;
+&lt;/a&gt;
+
+
+    &lt;a data-skip-pjax=&#34;true&#34; class=&#34;js-selected-navigation-item reponav-item&#34; data-selected-links=&#34;security alerts policy code_scanning /ahadviger/academic-kickstart/security/advisories&#34; href=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/security/advisories&#34;&gt;
+      &lt;svg class=&#34;octicon octicon-shield&#34; viewBox=&#34;0 0 14 16&#34; version=&#34;1.1&#34; width=&#34;14&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M0 2l7-2 7 2v6.02C14 12.69 8.69 16 7 16c-1.69 0-7-3.31-7-7.98V2zm1 .75L7 1l6 1.75v5.268C13 12.104 8.449 15 7 15c-1.449 0-6-2.896-6-6.982V2.75zm1 .75L7 2v12c-1.207 0-5-2.482-5-5.985V3.5z&#34;/&gt;&lt;/svg&gt;
+      Security
+&lt;/a&gt;
+    &lt;a class=&#34;js-selected-navigation-item reponav-item&#34; data-selected-links=&#34;repo_graphs repo_contributors dependency_graph pulse people /ahadviger/academic-kickstart/pulse&#34; href=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/pulse&#34;&gt;
+      &lt;svg class=&#34;octicon octicon-graph&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z&#34;/&gt;&lt;/svg&gt;
+      Insights
+&lt;/a&gt;
+
+&lt;/nav&gt;
+
+  &lt;div class=&#34;reponav-wrapper reponav-small d-lg-none&#34;&gt;
+  &lt;nav class=&#34;reponav js-reponav text-center no-wrap&#34;
+       itemscope
+       itemtype=&#34;http://schema.org/BreadcrumbList&#34;&gt;
+
+    &lt;span itemscope itemtype=&#34;http://schema.org/ListItem&#34; itemprop=&#34;itemListElement&#34;&gt;
+      &lt;a class=&#34;js-selected-navigation-item selected reponav-item&#34; itemprop=&#34;url&#34; aria-current=&#34;page&#34; data-selected-links=&#34;repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /ahadviger/academic-kickstart&#34; href=&#34;https://petkovich.github.io/ahadviger/academic-kickstart&#34;&gt;
+        &lt;span itemprop=&#34;name&#34;&gt;Code&lt;/span&gt;
+        &lt;meta itemprop=&#34;position&#34; content=&#34;1&#34;&gt;
+&lt;/a&gt;    &lt;/span&gt;
+
+
+    &lt;span itemscope itemtype=&#34;http://schema.org/ListItem&#34; itemprop=&#34;itemListElement&#34;&gt;
+      &lt;a itemprop=&#34;url&#34; class=&#34;js-selected-navigation-item reponav-item&#34; data-selected-links=&#34;repo_pulls checks /ahadviger/academic-kickstart/pulls&#34; href=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/pulls&#34;&gt;
+        &lt;span itemprop=&#34;name&#34;&gt;Pull requests&lt;/span&gt;
+        &lt;span class=&#34;Counter&#34;&gt;0&lt;/span&gt;
+        &lt;meta itemprop=&#34;position&#34; content=&#34;3&#34;&gt;
+&lt;/a&gt;    &lt;/span&gt;
+
+      &lt;span itemscope itemtype=&#34;http://schema.org/ListItem&#34; itemprop=&#34;itemListElement&#34;&gt;
+        &lt;a itemprop=&#34;url&#34; class=&#34;js-selected-navigation-item reponav-item&#34; data-selected-links=&#34;repo_projects new_repo_project repo_project /ahadviger/academic-kickstart/projects&#34; href=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/projects&#34;&gt;
+          &lt;span itemprop=&#34;name&#34;&gt;Projects&lt;/span&gt;
+          &lt;span class=&#34;Counter&#34;&gt;0&lt;/span&gt;
+          &lt;meta itemprop=&#34;position&#34; content=&#34;4&#34;&gt;
+&lt;/a&gt;      &lt;/span&gt;
+
+
+      &lt;a itemprop=&#34;url&#34; class=&#34;js-selected-navigation-item reponav-item&#34; data-selected-links=&#34;security alerts policy code_scanning /ahadviger/academic-kickstart/security/advisories&#34; href=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/security/advisories&#34;&gt;
+        &lt;span itemprop=&#34;name&#34;&gt;Security&lt;/span&gt;
+        &lt;meta itemprop=&#34;position&#34; content=&#34;6&#34;&gt;
+&lt;/a&gt;
+      &lt;a class=&#34;js-selected-navigation-item reponav-item&#34; data-selected-links=&#34;pulse /ahadviger/academic-kickstart/pulse&#34; href=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/pulse&#34;&gt;
+        Pulse
+&lt;/a&gt;
+
+  &lt;/nav&gt;
+&lt;/div&gt;
+
+
+  &lt;/div&gt;
+&lt;div class=&#34;container-lg clearfix new-discussion-timeline experiment-repo-nav  p-responsive&#34;&gt;
+  &lt;div class=&#34;repository-content &#34;&gt;
+
+    
+    
+
+
+  
+
+
+    &lt;a class=&#34;d-none js-permalink-shortcut&#34; data-hotkey=&#34;y&#34; href=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/blob/aa7b3b149c7af3e3b1bf2a8691ac38d4c198191b/content/publication/event-lifetime/index.md&#34;&gt;Permalink&lt;/a&gt;
+
+    &lt;!-- blob contrib key: blob_contributors:v21:ae65b4cf32a71350abcbe7fdce1aa769 --&gt;
+      
+
+    &lt;div class=&#34;d-flex flex-items-start flex-shrink-0 pb-3 flex-column flex-md-row&#34;&gt;
+      &lt;span class=&#34;d-flex flex-justify-between width-full width-md-auto&#34;&gt;
+        
+&lt;details class=&#34;details-reset details-overlay select-menu branch-select-menu  hx_rsm&#34; id=&#34;branch-select-menu&#34;&gt;
+  &lt;summary class=&#34;btn btn-sm select-menu-button css-truncate&#34;
+           data-hotkey=&#34;w&#34;
+           title=&#34;Switch branches or tags&#34;&gt;
+    &lt;i&gt;Branch:&lt;/i&gt;
+    &lt;span class=&#34;css-truncate-target&#34; data-menu-button&gt;master&lt;/span&gt;
+  &lt;/summary&gt;
+
+  &lt;details-menu class=&#34;select-menu-modal hx_rsm-modal position-absolute&#34; style=&#34;z-index: 99;&#34; src=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/ref-list/master/content/publication/event-lifetime/index.md?source_action=show&amp;amp;source_controller=blob&#34; preload&gt;
+    &lt;include-fragment class=&#34;select-menu-loading-overlay anim-pulse&#34;&gt;
+      &lt;svg height=&#34;32&#34; class=&#34;octicon octicon-octoface&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;32&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z&#34;/&gt;&lt;/svg&gt;
+    &lt;/include-fragment&gt;
+  &lt;/details-menu&gt;
+&lt;/details&gt;
+
+        &lt;div class=&#34;BtnGroup flex-shrink-0 d-md-none&#34;&gt;
+          &lt;a href=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/find/master&#34;
+                class=&#34;js-pjax-capture-input btn btn-sm BtnGroup-item&#34;
+                data-pjax
+                data-hotkey=&#34;t&#34;&gt;
+            Find file
+          &lt;/a&gt;
+          &lt;clipboard-copy value=&#34;content/publication/event-lifetime/index.md&#34; class=&#34;btn btn-sm BtnGroup-item&#34;&gt;
+            Copy path
+          &lt;/clipboard-copy&gt;
+        &lt;/div&gt;
+      &lt;/span&gt;
+      &lt;h2 id=&#34;blob-path&#34; class=&#34;breadcrumb flex-auto min-width-0 text-normal flex-md-self-center ml-md-2 mr-md-3 my-2 my-md-0&#34;&gt;
+        &lt;span class=&#34;js-repo-root text-bold&#34;&gt;&lt;span class=&#34;js-path-segment&#34;&gt;&lt;a data-pjax=&#34;true&#34; href=&#34;https://petkovich.github.io/ahadviger/academic-kickstart&#34;&gt;&lt;span&gt;academic-kickstart&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;separator&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;js-path-segment&#34;&gt;&lt;a data-pjax=&#34;true&#34; href=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/tree/master/content&#34;&gt;&lt;span&gt;content&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;span class=&#34;separator&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;js-path-segment&#34;&gt;&lt;a data-pjax=&#34;true&#34; href=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/tree/master/content/publication&#34;&gt;&lt;span&gt;publication&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;span class=&#34;separator&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;js-path-segment&#34;&gt;&lt;a data-pjax=&#34;true&#34; href=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/tree/master/content/publication/event-lifetime&#34;&gt;&lt;span&gt;event-lifetime&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;span class=&#34;separator&#34;&gt;/&lt;/span&gt;&lt;strong class=&#34;final-path&#34;&gt;index.md&lt;/strong&gt;
+      &lt;/h2&gt;
+
+      &lt;div class=&#34;BtnGroup flex-shrink-0 d-none d-md-inline-block&#34;&gt;
+        &lt;a href=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/find/master&#34;
+              class=&#34;js-pjax-capture-input btn btn-sm BtnGroup-item&#34;
+              data-pjax
+              data-hotkey=&#34;t&#34;&gt;
+          Find file
+        &lt;/a&gt;
+        &lt;clipboard-copy value=&#34;content/publication/event-lifetime/index.md&#34; class=&#34;btn btn-sm BtnGroup-item&#34;&gt;
+          Copy path
+        &lt;/clipboard-copy&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+
+
+    
+  &lt;div class=&#34;Box Box--condensed d-flex flex-column flex-shrink-0&#34;&gt;
+      &lt;div class=&#34;Box-body d-flex flex-justify-between bg-blue-light flex-column flex-md-row flex-items-start flex-md-items-center&#34;&gt;
+        &lt;span class=&#34;pr-md-4 f6&#34;&gt;
+          &lt;a rel=&#34;author&#34; data-skip-pjax=&#34;true&#34; data-hovercard-type=&#34;user&#34; data-hovercard-url=&#34;/hovercards?user_id=7397752&#34; data-octo-click=&#34;hovercard-link-click&#34; data-octo-dimensions=&#34;link_type:self&#34; href=&#34;https://petkovich.github.io/ahadviger&#34;&gt;&lt;img class=&#34;avatar&#34; src=&#34;https://avatars0.githubusercontent.com/u/7397752?s=40&amp;amp;v=4&#34; width=&#34;20&#34; height=&#34;20&#34; alt=&#34;@ahadviger&#34; /&gt;&lt;/a&gt;
+          &lt;a class=&#34;text-bold link-gray-dark lh-default v-align-middle&#34; rel=&#34;author&#34; data-hovercard-type=&#34;user&#34; data-hovercard-url=&#34;/hovercards?user_id=7397752&#34; data-octo-click=&#34;hovercard-link-click&#34; data-octo-dimensions=&#34;link_type:self&#34; href=&#34;https://petkovich.github.io/ahadviger&#34;&gt;ahadviger&lt;/a&gt;
+            &lt;span class=&#34;lh-default v-align-middle&#34;&gt;
+              &lt;a data-pjax=&#34;true&#34; title=&#34;changes&#34; class=&#34;link-gray&#34; href=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/commit/aa7b3b149c7af3e3b1bf2a8691ac38d4c198191b&#34;&gt;changes&lt;/a&gt;
+            &lt;/span&gt;
+        &lt;/span&gt;
+        &lt;span class=&#34;d-inline-block flex-shrink-0 v-align-bottom f6 mt-2 mt-md-0&#34;&gt;
+          &lt;a class=&#34;pr-2 text-mono link-gray&#34; href=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/commit/aa7b3b149c7af3e3b1bf2a8691ac38d4c198191b&#34; data-pjax&gt;aa7b3b1&lt;/a&gt;
+          &lt;relative-time datetime=&#34;2019-09-15T21:13:49Z&#34;&gt;Sep 15, 2019&lt;/relative-time&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+
+    &lt;div class=&#34;Box-body d-flex flex-items-center flex-auto f6 border-bottom-0 flex-wrap&#34; &gt;
+      &lt;details class=&#34;details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-2&#34; id=&#34;blob_contributors_box&#34;&gt;
+        &lt;summary class=&#34;btn-link&#34;&gt;
+          &lt;span&gt;&lt;strong&gt;1&lt;/strong&gt; contributor&lt;/span&gt;
+        &lt;/summary&gt;
+        &lt;details-dialog
+          class=&#34;Box Box--overlay d-flex flex-column anim-fade-in fast&#34;
+          aria-label=&#34;Users who have contributed to this file&#34;
+          src=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/contributors/master/content/publication/event-lifetime/index.md/list&#34; preload&gt;
+          &lt;div class=&#34;Box-header&#34;&gt;
+            &lt;button class=&#34;Box-btn-octicon btn-octicon float-right&#34; type=&#34;button&#34; aria-label=&#34;Close dialog&#34; data-close-dialog&gt;
+              &lt;svg class=&#34;octicon octicon-x&#34; viewBox=&#34;0 0 12 16&#34; version=&#34;1.1&#34; width=&#34;12&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z&#34;/&gt;&lt;/svg&gt;
+            &lt;/button&gt;
+            &lt;h3 class=&#34;Box-title&#34;&gt;
+              Users who have contributed to this file
+            &lt;/h3&gt;
+          &lt;/div&gt;
+          &lt;include-fragment class=&#34;octocat-spinner my-3&#34; aria-label=&#34;Loading...&#34;&gt;&lt;/include-fragment&gt;
+        &lt;/details-dialog&gt;
+      &lt;/details&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+
+
+
+    &lt;div class=&#34;Box mt-3 position-relative&#34;&gt;
+      
+&lt;div class=&#34;Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center&#34;&gt;
+
+  &lt;div class=&#34;text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0&#34;&gt;
+      70 lines (57 sloc)
+      &lt;span class=&#34;file-info-divider&#34;&gt;&lt;/span&gt;
+    3.12 KB
+  &lt;/div&gt;
+
+  &lt;div class=&#34;d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between&#34;&gt;
+
+    &lt;div class=&#34;BtnGroup&#34;&gt;
+      &lt;a id=&#34;raw-url&#34; class=&#34;btn btn-sm BtnGroup-item&#34; href=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/raw/master/content/publication/event-lifetime/index.md&#34;&gt;Raw&lt;/a&gt;
+        &lt;a class=&#34;btn btn-sm js-update-url-with-hash BtnGroup-item&#34; data-hotkey=&#34;b&#34; href=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/blame/master/content/publication/event-lifetime/index.md&#34;&gt;Blame&lt;/a&gt;
+      &lt;a rel=&#34;nofollow&#34; class=&#34;btn btn-sm BtnGroup-item&#34; href=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/commits/master/content/publication/event-lifetime/index.md&#34;&gt;History&lt;/a&gt;
+    &lt;/div&gt;
+
+
+    &lt;div&gt;
+
+            &lt;!-- &#39;&#34;` --&gt;&lt;!-- &lt;/textarea&gt;&lt;/xmp&gt; --&gt;&lt;/option&gt;&lt;/form&gt;&lt;form class=&#34;inline-form js-update-url-with-hash&#34; action=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/edit/master/content/publication/event-lifetime/index.md&#34; accept-charset=&#34;UTF-8&#34; method=&#34;post&#34;&gt;&lt;input name=&#34;utf8&#34; type=&#34;hidden&#34; value=&#34;&amp;#x2713;&#34; /&gt;&lt;input type=&#34;hidden&#34; name=&#34;authenticity_token&#34; value=&#34;WUuApkJV2gmAk7xQs+pb5JzHlaPXg5IPkK4Q9VX5JgZO2zLfHYu9JadERjIARUuhz1avj5RKI2bIC027Rdyjog==&#34; /&gt;
+              &lt;button class=&#34;btn-octicon tooltipped tooltipped-nw&#34; type=&#34;submit&#34;
+                aria-label=&#34;Fork this project and edit the file&#34; data-hotkey=&#34;e&#34; data-disable-with&gt;
+                &lt;svg class=&#34;octicon octicon-pencil&#34; viewBox=&#34;0 0 14 16&#34; version=&#34;1.1&#34; width=&#34;14&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z&#34;/&gt;&lt;/svg&gt;
+              &lt;/button&gt;
+&lt;/form&gt;
+          &lt;!-- &#39;&#34;` --&gt;&lt;!-- &lt;/textarea&gt;&lt;/xmp&gt; --&gt;&lt;/option&gt;&lt;/form&gt;&lt;form class=&#34;inline-form&#34; action=&#34;https://petkovich.github.io/ahadviger/academic-kickstart/delete/master/content/publication/event-lifetime/index.md&#34; accept-charset=&#34;UTF-8&#34; method=&#34;post&#34;&gt;&lt;input name=&#34;utf8&#34; type=&#34;hidden&#34; value=&#34;&amp;#x2713;&#34; /&gt;&lt;input type=&#34;hidden&#34; name=&#34;authenticity_token&#34; value=&#34;JQvlg+RVQRGebTC70OLwEn4sQ/bCrTZjXT/qUsyHx4RY+ttxfBW53ndnGR/MZWtVz3IAvbO/1ZJUCm0jt6VWPw==&#34; /&gt;
+            &lt;button class=&#34;btn-octicon btn-octicon-danger tooltipped tooltipped-nw&#34; type=&#34;submit&#34;
+              aria-label=&#34;Fork this project and delete the file&#34; data-disable-with&gt;
+              &lt;svg class=&#34;octicon octicon-trashcan&#34; viewBox=&#34;0 0 12 16&#34; version=&#34;1.1&#34; width=&#34;12&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z&#34;/&gt;&lt;/svg&gt;
+            &lt;/button&gt;
+&lt;/form&gt;    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+      
+  &lt;div id=&#34;readme&#34; class=&#34;Box-body readme blob instapaper_body js-code-block-container&#34;&gt;
+    &lt;article class=&#34;markdown-body entry-content p-3 p-md-6&#34; itemprop=&#34;text&#34;&gt;&lt;table data-table-type=&#34;yaml-metadata&#34;&gt;
+  &lt;thead&gt;
+  &lt;tr&gt;
+  &lt;th&gt;title&lt;/th&gt;
+  &lt;th&gt;authors&lt;/th&gt;
+  &lt;th&gt;date&lt;/th&gt;
+  &lt;th&gt;doi&lt;/th&gt;
+  &lt;th&gt;publishDate&lt;/th&gt;
+  &lt;th&gt;publication_types&lt;/th&gt;
+  &lt;th&gt;publication&lt;/th&gt;
+  &lt;th&gt;publication_short&lt;/th&gt;
+  &lt;th&gt;abstract&lt;/th&gt;
+  &lt;th&gt;summary&lt;/th&gt;
+  &lt;th&gt;tags&lt;/th&gt;
+  &lt;th&gt;categories&lt;/th&gt;
+  &lt;th&gt;featured&lt;/th&gt;
+  &lt;th&gt;url_pdf&lt;/th&gt;
+  &lt;th&gt;url_code&lt;/th&gt;
+  &lt;th&gt;url_dataset&lt;/th&gt;
+  &lt;th&gt;url_poster&lt;/th&gt;
+  &lt;th&gt;url_project&lt;/th&gt;
+  &lt;th&gt;url_slides&lt;/th&gt;
+  &lt;th&gt;url_source&lt;/th&gt;
+  &lt;th&gt;url_video&lt;/th&gt;
+  &lt;th&gt;image&lt;/th&gt;
+  &lt;th&gt;projects&lt;/th&gt;
+  &lt;th&gt;slides&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+  &lt;tr&gt;
+  &lt;td&gt;&lt;div&gt;Stereo Event Lifetime and Disparity Estimation for Dynamic Vision Sensors&lt;/div&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;div&gt;&lt;table&gt;
+  &lt;tbody&gt;
+  &lt;tr&gt;
+  &lt;td&gt;&lt;div&gt;Antea Hadviger&lt;/div&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;div&gt;Ivan Marković&lt;/div&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;div&gt;Ivan Petrović&lt;/div&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;div&gt;2019-09-15 00:12:05 +0200&lt;/div&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;div&gt;&lt;/div&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;div&gt;2019-09-15 00:12:05 +0200&lt;/div&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;div&gt;&lt;table&gt;
+  &lt;tbody&gt;
+  &lt;tr&gt;
+  &lt;td&gt;&lt;div&gt;1&lt;/div&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;div&gt;European Conference on Mobile Robots&lt;/div&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;div&gt;ECMR 2019&lt;/div&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;div&gt;Event-based cameras are biologically inspired sensors that output asynchronous pixel-wise brightness changes in the scene called events. They have a high dynamic range and temporal resolution of a microsecond, opposed to standard cameras that output frames at fixed frame rates and suffer from motion blur. Forming stereo pairs of such cameras can open novel application possibilities, since for each event depth can be readily estimated; however, to fully exploit asynchronous nature of the sensor and avoid fixed time interval event accumulation, stereo event lifetime estimation should be employed. In this paper, we propose a novel method for event lifetime estimation of stereo event-cameras, allowing generation of sharp gradient images of events that serve as input to disparity estimation methods. Since a single brightness change triggers events in both event-camera sensors, we propose a method for single shot event lifetime and disparity estimation, with association via stereo matching. The proposed method is approximately twice as fast and more accurate than if lifetimes were estimated separately for each sensor and then stereo matched. Results are validated on real-world data through multiple stereo event-camera experiments.&lt;/div&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;div&gt;&lt;/div&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;div&gt;&lt;table&gt;
+  &lt;tbody&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;div&gt;&lt;table&gt;
+  &lt;tbody&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;div&gt;false&lt;/div&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;div&gt;&lt;a href=&#34;https://arxiv.org/pdf/1907.07518&#34; rel=&#34;nofollow&#34;&gt;https://arxiv.org/pdf/1907.07518&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;div&gt;&lt;/div&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;div&gt;&lt;/div&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;div&gt;&lt;/div&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;div&gt;&lt;/div&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;div&gt;&lt;/div&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;div&gt;&lt;/div&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;div&gt;&lt;/div&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;div&gt;&lt;table&gt;
+  &lt;thead&gt;
+  &lt;tr&gt;
+  &lt;th&gt;caption&lt;/th&gt;
+  &lt;th&gt;focal_point&lt;/th&gt;
+  &lt;th&gt;preview_only&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+  &lt;tr&gt;
+  &lt;td&gt;&lt;div&gt;&lt;/div&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;div&gt;Center&lt;/div&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;div&gt;true&lt;/div&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;div&gt;&lt;table&gt;
+  &lt;tbody&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;div&gt;&lt;/div&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;/article&gt;
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+
+  
+
+  &lt;details class=&#34;details-reset details-overlay details-overlay-dark&#34;&gt;
+    &lt;summary data-hotkey=&#34;l&#34; aria-label=&#34;Jump to line&#34;&gt;&lt;/summary&gt;
+    &lt;details-dialog class=&#34;Box Box--overlay d-flex flex-column anim-fade-in fast linejump&#34; aria-label=&#34;Jump to line&#34;&gt;
+      &lt;!-- &#39;&#34;` --&gt;&lt;!-- &lt;/textarea&gt;&lt;/xmp&gt; --&gt;&lt;/option&gt;&lt;/form&gt;&lt;form class=&#34;js-jump-to-line-form Box-body d-flex&#34; action=&#34;&#34; accept-charset=&#34;UTF-8&#34; method=&#34;get&#34;&gt;&lt;input name=&#34;utf8&#34; type=&#34;hidden&#34; value=&#34;&amp;#x2713;&#34; /&gt;
+        &lt;input class=&#34;form-control flex-auto mr-3 linejump-input js-jump-to-line-field&#34; type=&#34;text&#34; placeholder=&#34;Jump to line&amp;hellip;&#34; aria-label=&#34;Jump to line&#34; autofocus&gt;
+        &lt;button type=&#34;submit&#34; class=&#34;btn&#34; data-close-dialog&gt;Go&lt;/button&gt;
+&lt;/form&gt;    &lt;/details-dialog&gt;
+  &lt;/details&gt;
+
+
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+    &lt;/main&gt;
+  &lt;/div&gt;
+  
+
+  &lt;/div&gt;
+
+        
+&lt;div class=&#34;footer container-lg width-full p-responsive&#34; role=&#34;contentinfo&#34;&gt;
+  &lt;div class=&#34;position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light &#34;&gt;
+    &lt;ul class=&#34;list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0&#34;&gt;
+      &lt;li class=&#34;mr-3 mr-lg-0&#34;&gt;&amp;copy; 2019 &lt;span title=&#34;0.46705s from unicorn-7dc8b64787-9x5kn&#34;&gt;GitHub&lt;/span&gt;, Inc.&lt;/li&gt;
+        &lt;li class=&#34;mr-3 mr-lg-0&#34;&gt;&lt;a data-ga-click=&#34;Footer, go to terms, text:terms&#34; href=&#34;https://github.com/site/terms&#34;&gt;Terms&lt;/a&gt;&lt;/li&gt;
+        &lt;li class=&#34;mr-3 mr-lg-0&#34;&gt;&lt;a data-ga-click=&#34;Footer, go to privacy, text:privacy&#34; href=&#34;https://github.com/site/privacy&#34;&gt;Privacy&lt;/a&gt;&lt;/li&gt;
+        &lt;li class=&#34;mr-3 mr-lg-0&#34;&gt;&lt;a data-ga-click=&#34;Footer, go to security, text:security&#34; href=&#34;https://github.com/security&#34;&gt;Security&lt;/a&gt;&lt;/li&gt;
+        &lt;li class=&#34;mr-3 mr-lg-0&#34;&gt;&lt;a href=&#34;https://githubstatus.com/&#34; data-ga-click=&#34;Footer, go to status, text:status&#34;&gt;Status&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a data-ga-click=&#34;Footer, go to help, text:help&#34; href=&#34;https://help.github.com&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;a aria-label=&#34;Homepage&#34; title=&#34;GitHub&#34; class=&#34;footer-octicon d-none d-lg-block mx-lg-4&#34; href=&#34;https://github.com&#34;&gt;
+      &lt;svg height=&#34;24&#34; class=&#34;octicon octicon-mark-github&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;24&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z&#34;/&gt;&lt;/svg&gt;
+&lt;/a&gt;
+   &lt;ul class=&#34;list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0&#34;&gt;
+        &lt;li class=&#34;mr-3 mr-lg-0&#34;&gt;&lt;a data-ga-click=&#34;Footer, go to contact, text:contact&#34; href=&#34;https://github.com/contact&#34;&gt;Contact GitHub&lt;/a&gt;&lt;/li&gt;
+        &lt;li class=&#34;mr-3 mr-lg-0&#34;&gt;&lt;a href=&#34;https://github.com/pricing&#34; data-ga-click=&#34;Footer, go to Pricing, text:Pricing&#34;&gt;Pricing&lt;/a&gt;&lt;/li&gt;
+      &lt;li class=&#34;mr-3 mr-lg-0&#34;&gt;&lt;a href=&#34;https://developer.github.com&#34; data-ga-click=&#34;Footer, go to api, text:api&#34;&gt;API&lt;/a&gt;&lt;/li&gt;
+      &lt;li class=&#34;mr-3 mr-lg-0&#34;&gt;&lt;a href=&#34;https://training.github.com&#34; data-ga-click=&#34;Footer, go to training, text:training&#34;&gt;Training&lt;/a&gt;&lt;/li&gt;
+        &lt;li class=&#34;mr-3 mr-lg-0&#34;&gt;&lt;a href=&#34;https://github.blog&#34; data-ga-click=&#34;Footer, go to blog, text:blog&#34;&gt;Blog&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a data-ga-click=&#34;Footer, go to about, text:about&#34; href=&#34;https://github.com/about&#34;&gt;About&lt;/a&gt;&lt;/li&gt;
+
+    &lt;/ul&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;d-flex flex-justify-center pb-6&#34;&gt;
+    &lt;span class=&#34;f6 text-gray-light&#34;&gt;&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+  &lt;div id=&#34;ajax-error-message&#34; class=&#34;ajax-error-message flash flash-error&#34;&gt;
+    &lt;svg class=&#34;octicon octicon-alert&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z&#34;/&gt;&lt;/svg&gt;
+    &lt;button type=&#34;button&#34; class=&#34;flash-close js-ajax-error-dismiss&#34; aria-label=&#34;Dismiss error&#34;&gt;
+      &lt;svg class=&#34;octicon octicon-x&#34; viewBox=&#34;0 0 12 16&#34; version=&#34;1.1&#34; width=&#34;12&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z&#34;/&gt;&lt;/svg&gt;
+    &lt;/button&gt;
+    You can’t perform that action at this time.
+  &lt;/div&gt;
+
+
+    &lt;script crossorigin=&#34;anonymous&#34; integrity=&#34;sha512-RwS+8T0XPR5cCcBdDmGcf/cL+FfKUdIjfRL93fvzAzjVUdgaknI2UpShICXEAx0szS45xu9lpIDeacN+3d3hZw==&#34; type=&#34;application/javascript&#34; src=&#34;https://github.githubassets.com/assets/compat-bootstrap-94789d4c.js&#34;&gt;&lt;/script&gt;
+    &lt;script crossorigin=&#34;anonymous&#34; integrity=&#34;sha512-zkplp60DvoRCC9CXX7c0VMvowqQVA30d13E4xweoE5aCO1wqyvOEzSkt7aoeDqZ1sdAIPM00n8r79qznbDdfBQ==&#34; type=&#34;application/javascript&#34; src=&#34;https://github.githubassets.com/assets/frameworks-c254eb02.js&#34;&gt;&lt;/script&gt;
+    
+    &lt;script crossorigin=&#34;anonymous&#34; async=&#34;async&#34; integrity=&#34;sha512-U1daHtYnkXOXz4ueIS46qUEoU7LB1x20+T3RtwiKZu5aIbCqQ7kpE1jU6VGH2VG4LvyNyZfxzCdeRM88rEIFEg==&#34; type=&#34;application/javascript&#34; src=&#34;https://github.githubassets.com/assets/github-bootstrap-e2ec3d6e.js&#34;&gt;&lt;/script&gt;
+    
+    
+    
+  &lt;div class=&#34;js-stale-session-flash stale-session-flash flash flash-warn flash-banner&#34; hidden
+    &gt;
+    &lt;svg class=&#34;octicon octicon-alert&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z&#34;/&gt;&lt;/svg&gt;
+    &lt;span class=&#34;signed-in-tab-flash&#34;&gt;You signed in with another tab or window. &lt;a href=&#34;&#34;&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
+    &lt;span class=&#34;signed-out-tab-flash&#34;&gt;You signed out in another tab or window. &lt;a href=&#34;&#34;&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;template id=&#34;site-details-dialog&#34;&gt;
+  &lt;details class=&#34;details-reset details-overlay details-overlay-dark lh-default text-gray-dark hx_rsm&#34; open&gt;
+    &lt;summary role=&#34;button&#34; aria-label=&#34;Close dialog&#34;&gt;&lt;/summary&gt;
+    &lt;details-dialog class=&#34;Box Box--overlay d-flex flex-column anim-fade-in fast hx_rsm-dialog hx_rsm-modal&#34;&gt;
+      &lt;button class=&#34;Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0&#34; type=&#34;button&#34; aria-label=&#34;Close dialog&#34; data-close-dialog&gt;
+        &lt;svg class=&#34;octicon octicon-x&#34; viewBox=&#34;0 0 12 16&#34; version=&#34;1.1&#34; width=&#34;12&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z&#34;/&gt;&lt;/svg&gt;
+      &lt;/button&gt;
+      &lt;div class=&#34;octocat-spinner my-6 js-details-dialog-spinner&#34;&gt;&lt;/div&gt;
+    &lt;/details-dialog&gt;
+  &lt;/details&gt;
+&lt;/template&gt;
+
+  &lt;div class=&#34;Popover js-hovercard-content position-absolute&#34; style=&#34;display: none; outline: none;&#34; tabindex=&#34;0&#34;&gt;
+  &lt;div class=&#34;Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large&#34; style=&#34;width:360px;&#34;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+  &lt;div aria-live=&#34;polite&#34; class=&#34;js-global-screen-reader-notice sr-only&#34;&gt;&lt;/div&gt;
+
+  &lt;/body&gt;
+&lt;/html&gt;
+
+</description>
+    </item>
+    
   </channel>
 </rss>
