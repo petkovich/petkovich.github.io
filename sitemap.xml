@@ -3,16 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://petkovich.github.io/authors/admin/</loc>
+    <loc>https://petkovich.github.io/publication_types/1/</loc>
+    <lastmod>2019-09-15T00:12:05+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://petkovich.github.io/publication/rcim/</loc>
-    <priority>0</priority>
+    <loc>https://petkovich.github.io/authors/antea-hadviger/</loc>
+    <lastmod>2019-09-15T00:12:05+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://petkovich.github.io/authors/</loc>
+    <lastmod>2019-09-15T00:12:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://petkovich.github.io/authors/ivan-markovic/</loc>
+    <lastmod>2019-09-15T00:12:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://petkovich.github.io/authors/ivan-petrovic/</loc>
+    <lastmod>2019-09-15T00:12:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://petkovich.github.io/publication_types/</loc>
+    <lastmod>2019-09-15T00:12:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://petkovich.github.io/publication/</loc>
+    <lastmod>2019-09-15T00:12:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://petkovich.github.io/publication/rcim/</loc>
+    <lastmod>2019-09-15T00:12:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://petkovich.github.io/</loc>
+    <lastmod>2019-09-15T00:12:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://petkovich.github.io/authors/admin/</loc>
   </url>
   
   <url>
@@ -24,23 +60,11 @@
   </url>
   
   <url>
-    <loc>https://petkovich.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://petkovich.github.io/publication/</loc>
-  </url>
-  
-  <url>
     <loc>https://petkovich.github.io/talk/</loc>
   </url>
   
   <url>
     <loc>https://petkovich.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://petkovich.github.io/</loc>
   </url>
   
 </urlset>

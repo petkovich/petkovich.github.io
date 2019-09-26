@@ -5,12 +5,20 @@
     <link>https://petkovich.github.io/publication_types/</link>
       <atom:link href="https://petkovich.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Sep 2019 00:12:05 +0200</lastBuildDate>
     <image>
       <url>https://petkovich.github.io/img/icon-192.png</url>
       <title>Publication_types</title>
       <link>https://petkovich.github.io/publication_types/</link>
     </image>
+    
+    <item>
+      <title>1</title>
+      <link>https://petkovich.github.io/publication_types/1/</link>
+      <pubDate>Sun, 15 Sep 2019 00:12:05 +0200</pubDate>
+      <guid>https://petkovich.github.io/publication_types/1/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

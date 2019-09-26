@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Tomislav Petković</title>
-    <link>https://petkovich.github.io/publication/</link>
-      <atom:link href="https://petkovich.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Ivan Petrović | Tomislav Petković</title>
+    <link>https://petkovich.github.io/authors/ivan-petrovic/</link>
+      <atom:link href="https://petkovich.github.io/authors/ivan-petrovic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ivan Petrović</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Sep 2019 00:12:05 +0200</lastBuildDate>
     <image>
       <url>https://petkovich.github.io/img/icon-192.png</url>
-      <title>Publications</title>
-      <link>https://petkovich.github.io/publication/</link>
+      <title>Ivan Petrović</title>
+      <link>https://petkovich.github.io/authors/ivan-petrovic/</link>
     </image>
     
     <item>
