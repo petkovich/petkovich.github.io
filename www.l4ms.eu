@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="PhD Student">
+  <meta name="description" content="">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://petkovich.github.io/authors/libor-preucil/">
+  <link rel="alternate" hreflang="en-us" href="https://petkovich.github.io/www.l4ms.eu">
 
   
 
@@ -92,14 +92,12 @@
   
 
   
-  <link rel="alternate" href="/authors/libor-preucil/index.xml" type="application/rss+xml" title="Tomislav Petković">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://petkovich.github.io/authors/libor-preucil/">
+  <link rel="canonical" href="https://petkovich.github.io/www.l4ms.eu">
 
   
   
@@ -112,18 +110,72 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Tomislav Petković">
-  <meta property="og:url" content="https://petkovich.github.io/authors/libor-preucil/">
-  <meta property="og:title" content="Libor Preučil | Tomislav Petković">
-  <meta property="og:description" content="PhD Student"><meta property="og:image" content="https://petkovich.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://petkovich.github.io/www.l4ms.eu">
+  <meta property="og:title" content="L4MS: Logistics for manufacturing SMEs | Tomislav Petković">
+  <meta property="og:description" content=""><meta property="og:image" content="https://petkovich.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://petkovich.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2019-05-15T00:12:05&#43;02:00">
+    
+    
   
 
   
 
 
+    
 
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://petkovich.github.io/www.l4ms.eu"
+  },
+  "headline": "L4MS: Logistics for manufacturing SMEs",
+  
+  "datePublished": "0001-01-01T00:00:00Z",
+  "dateModified": "0001-01-01T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Tomislav Petković"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Tomislav Petković",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://petkovich.github.io/img/icon-512.png"
+    }
+  },
+  "description": ""
+}
+</script>
+
+  
 
   
 
@@ -131,10 +183,13 @@
   
 
 
+  
 
 
 
-  <title>Libor Preučil | Tomislav Petković</title>
+
+
+  <title>L4MS: Logistics for manufacturing SMEs | Tomislav Petković</title>
 
 </head>
 
@@ -337,35 +392,275 @@
 </nav>
 
 
+  <article class="article article-project">
+
   
 
-<div class="universal-wrapper pt-3">
-  <h1>Libor Preučil</h1>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>L4MS: Logistics for manufacturing SMEs</h1>
+
+  
+
+  
+    
+
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 1, 0001
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://petkovich.github.io/www.l4ms.eu&amp;text=L4MS:%20Logistics%20for%20manufacturing%20SMEs" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://petkovich.github.io/www.l4ms.eu&amp;t=L4MS:%20Logistics%20for%20manufacturing%20SMEs" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=L4MS:%20Logistics%20for%20manufacturing%20SMEs&amp;body=https://petkovich.github.io/www.l4ms.eu" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://petkovich.github.io/www.l4ms.eu&amp;title=L4MS:%20Logistics%20for%20manufacturing%20SMEs" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=L4MS:%20Logistics%20for%20manufacturing%20SMEs%20https://petkovich.github.io/www.l4ms.eu" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://petkovich.github.io/www.l4ms.eu&amp;title=L4MS:%20Logistics%20for%20manufacturing%20SMEs" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
 </div>
 
 
-<section id="profile-page" class="pt-5">
-  <div class="container">
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      
+    </div>
+
+    
+
+
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  <div class="media author-card">
+    
+      
+      <img class="portrait mr-3" src="/authors/admin/avatar_hu2c7fcbf367854dabc69b7c058e6ca316_306056_250x250_fill_lanczos_center_2.png" alt="Avatar">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://petkovich.github.io/">Tomislav Petković</a></h5>
+      <h6 class="card-subtitle">PhD Student</h6>
+      <p class="card-text">I am a PhD student in robotics, focused on human intention recognition for warehouse application. I am a member of the Laboratory for Autonomous Systems and Mobile Robotics (<a href="https://lamor.fer.hr/" target="_blank">LAMOR</a>) and a teaching assistant at the University of Zagreb.</p>
+      <ul class="network-icon" aria-hidden="true">
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+          <li>
+            <a href="mailto:petkovic@fer.hr" >
+              <i class="fas fa-envelope"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a href="https://scholar.google.hr/citations?user=RGzqA7UAAAAJ" target="_blank" rel="noopener">
+              <i class="ai ai-google-scholar"></i>
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+
+    
+
+
     
     
 
     
     
     
-    <div class="article-widget">
-      <div class="hr-light"></div>
-      <h3>Latest</h3>
-      <ul>
-        
-        <li>
-          <a href="/publication/icra19/">Human Motion Prediction Framework for Safe Flexible Robotized Warehouses</a>
-        </li>
-        
-      </ul>
-    </div>
+
     
+    
+    
+
+    
+    
+    
+
   </div>
-</section>
+</article>
+
+
 
       
 

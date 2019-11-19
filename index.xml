@@ -14,14 +14,6 @@
     
     <item>
       <title>Publications</title>
-      <link>https://petkovich.github.io/project/</link>
-      <pubDate>Wed, 15 May 2019 00:12:05 +0200</pubDate>
-      <guid>https://petkovich.github.io/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
       <link>https://petkovich.github.io/publication/</link>
       <pubDate>Wed, 15 May 2019 00:12:05 +0200</pubDate>
       <guid>https://petkovich.github.io/publication/</guid>
@@ -41,6 +33,14 @@
       <link>https://petkovich.github.io/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://petkovich.github.io/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://petkovich.github.io/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://petkovich.github.io/project/</guid>
       <description></description>
     </item>
     

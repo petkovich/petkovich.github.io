@@ -5,7 +5,7 @@
     <link>https://petkovich.github.io/project/</link>
       <atom:link href="https://petkovich.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 May 2019 00:12:05 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://petkovich.github.io/img/icon-192.png</url>
       <title>Publications</title>
@@ -13,26 +13,18 @@
     </image>
     
     <item>
-      <title>Human Motion Prediction Framework for Safe Flexible Robotized Warehouses</title>
-      <link>https://petkovich.github.io/project/icra19/</link>
-      <pubDate>Wed, 15 May 2019 00:12:05 +0200</pubDate>
-      <guid>https://petkovich.github.io/project/icra19/</guid>
+      <title>L4MS: Logistics for manufacturing SMEs</title>
+      <link>https://petkovich.github.io/www.l4ms.eu</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://petkovich.github.io/www.l4ms.eu</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Human intention estimation based on hidden Markov model motion validation for safe flexible robotized warehouses</title>
-      <link>https://petkovich.github.io/project/rcim19/</link>
-      <pubDate>Tue, 15 Jan 2019 00:12:05 +0200</pubDate>
-      <guid>https://petkovich.github.io/project/rcim19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Human Intention Recognition in Flexible Robotized Warehouses Based on Markov Decision Processes</title>
-      <link>https://petkovich.github.io/project/iberian17/</link>
-      <pubDate>Wed, 15 Nov 2017 00:12:05 +0200</pubDate>
-      <guid>https://petkovich.github.io/project/iberian17/</guid>
+      <title>SafeLOG: Safe human-robot interaction in logistic applications for highly flexible warehouses</title>
+      <link>https://petkovich.github.io/safelog-project.eu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://petkovich.github.io/safelog-project.eu/</guid>
       <description></description>
     </item>
     
