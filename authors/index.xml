@@ -5,7 +5,7 @@
     <link>https://petkovich.github.io/authors/</link>
       <atom:link href="https://petkovich.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Sep 2019 00:12:05 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 May 2019 00:12:05 +0200</lastBuildDate>
     <image>
       <url>https://petkovich.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,17 +13,9 @@
     </image>
     
     <item>
-      <title>Antea Hadviger</title>
-      <link>https://petkovich.github.io/authors/antea-hadviger/</link>
-      <pubDate>Sun, 15 Sep 2019 00:12:05 +0200</pubDate>
-      <guid>https://petkovich.github.io/authors/antea-hadviger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ivan Marković</title>
       <link>https://petkovich.github.io/authors/ivan-markovic/</link>
-      <pubDate>Sun, 15 Sep 2019 00:12:05 +0200</pubDate>
+      <pubDate>Wed, 15 May 2019 00:12:05 +0200</pubDate>
       <guid>https://petkovich.github.io/authors/ivan-markovic/</guid>
       <description></description>
     </item>
@@ -31,8 +23,64 @@
     <item>
       <title>Ivan Petrović</title>
       <link>https://petkovich.github.io/authors/ivan-petrovic/</link>
-      <pubDate>Sun, 15 Sep 2019 00:12:05 +0200</pubDate>
+      <pubDate>Wed, 15 May 2019 00:12:05 +0200</pubDate>
       <guid>https://petkovich.github.io/authors/ivan-petrovic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jakub Hvezda</title>
+      <link>https://petkovich.github.io/authors/jakub-hvezda/</link>
+      <pubDate>Wed, 15 May 2019 00:12:05 +0200</pubDate>
+      <guid>https://petkovich.github.io/authors/jakub-hvezda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Libor Preučil</title>
+      <link>https://petkovich.github.io/authors/libor-preucil/</link>
+      <pubDate>Wed, 15 May 2019 00:12:05 +0200</pubDate>
+      <guid>https://petkovich.github.io/authors/libor-preucil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miroslav Kulich</title>
+      <link>https://petkovich.github.io/authors/miroslav-kulich/</link>
+      <pubDate>Wed, 15 May 2019 00:12:05 +0200</pubDate>
+      <guid>https://petkovich.github.io/authors/miroslav-kulich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomislav Petković</title>
+      <link>https://petkovich.github.io/authors/tomislav-petkovic/</link>
+      <pubDate>Wed, 15 May 2019 00:12:05 +0200</pubDate>
+      <guid>https://petkovich.github.io/authors/tomislav-petkovic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomáš Rybecký</title>
+      <link>https://petkovich.github.io/authors/tomas-rybecky/</link>
+      <pubDate>Wed, 15 May 2019 00:12:05 +0200</pubDate>
+      <guid>https://petkovich.github.io/authors/tomas-rybecky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Björn Hein</title>
+      <link>https://petkovich.github.io/authors/bjorn-hein/</link>
+      <pubDate>Tue, 15 Jan 2019 00:12:05 +0200</pubDate>
+      <guid>https://petkovich.github.io/authors/bjorn-hein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Puljiz</title>
+      <link>https://petkovich.github.io/authors/david-puljiz/</link>
+      <pubDate>Tue, 15 Jan 2019 00:12:05 +0200</pubDate>
+      <guid>https://petkovich.github.io/authors/david-puljiz/</guid>
       <description></description>
     </item>
     

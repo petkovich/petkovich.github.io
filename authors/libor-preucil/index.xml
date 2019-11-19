@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | Tomislav Petković</title>
-    <link>https://petkovich.github.io/publication_types/1/</link>
-      <atom:link href="https://petkovich.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
-    <description>1</description>
+    <title>Libor Preučil | Tomislav Petković</title>
+    <link>https://petkovich.github.io/authors/libor-preucil/</link>
+      <atom:link href="https://petkovich.github.io/authors/libor-preucil/index.xml" rel="self" type="application/rss+xml" />
+    <description>Libor Preučil</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 May 2019 00:12:05 +0200</lastBuildDate>
     <image>
       <url>https://petkovich.github.io/img/icon-192.png</url>
-      <title>1</title>
-      <link>https://petkovich.github.io/publication_types/1/</link>
+      <title>Libor Preučil</title>
+      <link>https://petkovich.github.io/authors/libor-preucil/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://petkovich.github.io/publication/icra19/</link>
       <pubDate>Wed, 15 May 2019 00:12:05 +0200</pubDate>
       <guid>https://petkovich.github.io/publication/icra19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Human Intention Recognition in Flexible Robotized Warehouses Based on Markov Decision Processes</title>
-      <link>https://petkovich.github.io/publication/iberian17/</link>
-      <pubDate>Wed, 15 Nov 2017 00:12:05 +0200</pubDate>
-      <guid>https://petkovich.github.io/publication/iberian17/</guid>
       <description></description>
     </item>
     

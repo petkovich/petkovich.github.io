@@ -5,7 +5,7 @@
     <link>https://petkovich.github.io/authors/ivan-markovic/</link>
       <atom:link href="https://petkovich.github.io/authors/ivan-markovic/index.xml" rel="self" type="application/rss+xml" />
     <description>Ivan Marković</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Sep 2019 00:12:05 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 May 2019 00:12:05 +0200</lastBuildDate>
     <image>
       <url>https://petkovich.github.io/img/icon-192.png</url>
       <title>Ivan Marković</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
-      <title>Stereo Event Lifetime and Disparity Estimation for Dynamic Vision Sensors</title>
-      <link>https://petkovich.github.io/publication/rcim/</link>
-      <pubDate>Sun, 15 Sep 2019 00:12:05 +0200</pubDate>
-      <guid>https://petkovich.github.io/publication/rcim/</guid>
+      <title>Human Motion Prediction Framework for Safe Flexible Robotized Warehouses</title>
+      <link>https://petkovich.github.io/publication/icra19/</link>
+      <pubDate>Wed, 15 May 2019 00:12:05 +0200</pubDate>
+      <guid>https://petkovich.github.io/publication/icra19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human intention estimation based on hidden Markov model motion validation for safe flexible robotized warehouses</title>
+      <link>https://petkovich.github.io/publication/rcim19/</link>
+      <pubDate>Tue, 15 Jan 2019 00:12:05 +0200</pubDate>
+      <guid>https://petkovich.github.io/publication/rcim19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Intention Recognition in Flexible Robotized Warehouses Based on Markov Decision Processes</title>
+      <link>https://petkovich.github.io/publication/iberian17/</link>
+      <pubDate>Wed, 15 Nov 2017 00:12:05 +0200</pubDate>
+      <guid>https://petkovich.github.io/publication/iberian17/</guid>
       <description></description>
     </item>
     
