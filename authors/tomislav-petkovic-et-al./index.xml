@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 | Tomislav Petković</title>
-    <link>https://petkovich.github.io/publication_types/2/</link>
-      <atom:link href="https://petkovich.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
-    <description>2</description>
+    <title>Tomislav Petkovic et al. | Tomislav Petković</title>
+    <link>https://petkovich.github.io/authors/tomislav-petkovic-et-al./</link>
+      <atom:link href="https://petkovich.github.io/authors/tomislav-petkovic-et-al./index.xml" rel="self" type="application/rss+xml" />
+    <description>Tomislav Petkovic et al.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Jan 2019 00:12:05 +0200</lastBuildDate>
     <image>
       <url>https://petkovich.github.io/img/icon-192.png</url>
-      <title>2</title>
-      <link>https://petkovich.github.io/publication_types/2/</link>
+      <title>Tomislav Petkovic et al.</title>
+      <link>https://petkovich.github.io/authors/tomislav-petkovic-et-al./</link>
     </image>
-    
-    <item>
-      <title>Human intention estimation based on hidden Markov model motion validation for safe flexible robotized warehouses</title>
-      <link>https://petkovich.github.io/publication/rcim19/</link>
-      <pubDate>Tue, 15 Jan 2019 00:12:05 +0200</pubDate>
-      <guid>https://petkovich.github.io/publication/rcim19/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Open Platform Based Mobile Robot Control for Automation in Manufacturing Logistics</title>
