@@ -1,24 +1,59 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://petkovich.github.io/publication_types/1/</loc>
-    <lastmod>2019-05-15T00:12:05+02:00</lastmod>
+    <lastmod>2021-06-22T00:12:05+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://petkovich.github.io/authors/</loc>
-    <lastmod>2019-05-15T00:12:05+02:00</lastmod>
+    <lastmod>2021-06-22T00:12:05+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://petkovich.github.io/publication/icra19/</loc>
-    <lastmod>2019-05-15T00:12:05+02:00</lastmod>
+    <loc>https://petkovich.github.io/publication/ias21/</loc>
+    <lastmod>2021-06-22T00:12:05+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://petkovich.github.io/authors/ivan-markovic/</loc>
+    <lastmod>2021-06-22T00:12:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://petkovich.github.io/authors/ivan-markovic-and-ivan-petrovic/</loc>
+    <lastmod>2021-06-22T00:12:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://petkovich.github.io/authors/luka-petrovic/</loc>
+    <lastmod>2021-06-22T00:12:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://petkovich.github.io/publication_types/</loc>
+    <lastmod>2021-06-22T00:12:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://petkovich.github.io/publication/</loc>
+    <lastmod>2021-06-22T00:12:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://petkovich.github.io/authors/tomislav-petkovic/</loc>
+    <lastmod>2021-06-22T00:12:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://petkovich.github.io/</loc>
+    <lastmod>2021-06-22T00:12:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://petkovich.github.io/publication/icra19/</loc>
     <lastmod>2019-05-15T00:12:05+02:00</lastmod>
   </url>
   
@@ -43,26 +78,6 @@
   </url>
   
   <url>
-    <loc>https://petkovich.github.io/publication_types/</loc>
-    <lastmod>2019-05-15T00:12:05+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://petkovich.github.io/publication/</loc>
-    <lastmod>2019-05-15T00:12:05+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://petkovich.github.io/authors/tomislav-petkovic/</loc>
-    <lastmod>2019-05-15T00:12:05+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://petkovich.github.io/</loc>
-    <lastmod>2019-05-15T00:12:05+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://petkovich.github.io/authors/tomas-rybecky/</loc>
     <lastmod>2019-05-15T00:12:05+02:00</lastmod>
   </url>
@@ -73,7 +88,27 @@
   </url>
   
   <url>
+    <loc>https://petkovich.github.io/authors/ali-muhammad/</loc>
+    <lastmod>2019-01-15T00:12:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://petkovich.github.io/authors/ana-selek/</loc>
+    <lastmod>2019-01-15T00:12:05+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://petkovich.github.io/authors/bjorn-hein/</loc>
+    <lastmod>2019-01-15T00:12:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://petkovich.github.io/authors/borna-bicanic/</loc>
+    <lastmod>2019-01-15T00:12:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://petkovich.github.io/authors/damir-josic/</loc>
     <lastmod>2019-01-15T00:12:05+02:00</lastmod>
   </url>
   
@@ -83,17 +118,32 @@
   </url>
   
   <url>
+    <loc>https://petkovich.github.io/authors/goran-popovic/</loc>
+    <lastmod>2019-01-15T00:12:05+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://petkovich.github.io/publication/rcim19/</loc>
     <lastmod>2019-01-15T00:12:05+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://petkovich.github.io/publication/ifac/</loc>
+    <loc>https://petkovich.github.io/authors/igor-cvisic/</loc>
     <lastmod>2019-01-15T00:12:05+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://petkovich.github.io/authors/tomislav-petkovic-et-al./</loc>
+    <loc>https://petkovich.github.io/authors/juraj-persic/</loc>
+    <lastmod>2019-01-15T00:12:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://petkovich.github.io/authors/marija-seder/</loc>
+    <lastmod>2019-01-15T00:12:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://petkovich.github.io/publication/ifac/</loc>
     <lastmod>2019-01-15T00:12:05+02:00</lastmod>
   </url>
   

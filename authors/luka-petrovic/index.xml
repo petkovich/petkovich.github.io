@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luka Petrović | Tomislav Petković</title>
+    <link>https://petkovich.github.io/authors/luka-petrovic/</link>
+      <atom:link href="https://petkovich.github.io/authors/luka-petrovic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luka Petrović</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Jun 2021 00:12:05 +0200</lastBuildDate>
+    <image>
+      <url>https://petkovich.github.io/img/icon-192.png</url>
+      <title>Luka Petrović</title>
+      <link>https://petkovich.github.io/authors/luka-petrovic/</link>
+    </image>
+    
+    <item>
+      <title>Ensemble of LSTMs and feature selection for human action prediction</title>
+      <link>https://petkovich.github.io/publication/ias21/</link>
+      <pubDate>Tue, 22 Jun 2021 00:12:05 +0200</pubDate>
+      <guid>https://petkovich.github.io/publication/ias21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Platform Based Mobile Robot Control for Automation in Manufacturing Logistics</title>
+      <link>https://petkovich.github.io/publication/ifac/</link>
+      <pubDate>Tue, 15 Jan 2019 00:12:05 +0200</pubDate>
+      <guid>https://petkovich.github.io/publication/ifac/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

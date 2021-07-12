@@ -5,7 +5,7 @@
     <link>https://petkovich.github.io/authors/</link>
       <atom:link href="https://petkovich.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 May 2019 00:12:05 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Jun 2021 00:12:05 +0200</lastBuildDate>
     <image>
       <url>https://petkovich.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,32 @@
     <item>
       <title>Ivan Marković</title>
       <link>https://petkovich.github.io/authors/ivan-markovic/</link>
-      <pubDate>Wed, 15 May 2019 00:12:05 +0200</pubDate>
+      <pubDate>Tue, 22 Jun 2021 00:12:05 +0200</pubDate>
       <guid>https://petkovich.github.io/authors/ivan-markovic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ivan Marković and Ivan Petrović</title>
+      <link>https://petkovich.github.io/authors/ivan-markovic-and-ivan-petrovic/</link>
+      <pubDate>Tue, 22 Jun 2021 00:12:05 +0200</pubDate>
+      <guid>https://petkovich.github.io/authors/ivan-markovic-and-ivan-petrovic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luka Petrović</title>
+      <link>https://petkovich.github.io/authors/luka-petrovic/</link>
+      <pubDate>Tue, 22 Jun 2021 00:12:05 +0200</pubDate>
+      <guid>https://petkovich.github.io/authors/luka-petrovic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomislav Petković</title>
+      <link>https://petkovich.github.io/authors/tomislav-petkovic/</link>
+      <pubDate>Tue, 22 Jun 2021 00:12:05 +0200</pubDate>
+      <guid>https://petkovich.github.io/authors/tomislav-petkovic/</guid>
       <description></description>
     </item>
     
@@ -53,18 +77,26 @@
     </item>
     
     <item>
-      <title>Tomislav Petković</title>
-      <link>https://petkovich.github.io/authors/tomislav-petkovic/</link>
-      <pubDate>Wed, 15 May 2019 00:12:05 +0200</pubDate>
-      <guid>https://petkovich.github.io/authors/tomislav-petkovic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Tomáš Rybecký</title>
       <link>https://petkovich.github.io/authors/tomas-rybecky/</link>
       <pubDate>Wed, 15 May 2019 00:12:05 +0200</pubDate>
       <guid>https://petkovich.github.io/authors/tomas-rybecky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ali Muhammad</title>
+      <link>https://petkovich.github.io/authors/ali-muhammad/</link>
+      <pubDate>Tue, 15 Jan 2019 00:12:05 +0200</pubDate>
+      <guid>https://petkovich.github.io/authors/ali-muhammad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ana Šelek</title>
+      <link>https://petkovich.github.io/authors/ana-selek/</link>
+      <pubDate>Tue, 15 Jan 2019 00:12:05 +0200</pubDate>
+      <guid>https://petkovich.github.io/authors/ana-selek/</guid>
       <description></description>
     </item>
     
@@ -77,6 +109,22 @@
     </item>
     
     <item>
+      <title>Borna Bićanić</title>
+      <link>https://petkovich.github.io/authors/borna-bicanic/</link>
+      <pubDate>Tue, 15 Jan 2019 00:12:05 +0200</pubDate>
+      <guid>https://petkovich.github.io/authors/borna-bicanic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Damir Josić</title>
+      <link>https://petkovich.github.io/authors/damir-josic/</link>
+      <pubDate>Tue, 15 Jan 2019 00:12:05 +0200</pubDate>
+      <guid>https://petkovich.github.io/authors/damir-josic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>David Puljiz</title>
       <link>https://petkovich.github.io/authors/david-puljiz/</link>
       <pubDate>Tue, 15 Jan 2019 00:12:05 +0200</pubDate>
@@ -85,10 +133,34 @@
     </item>
     
     <item>
-      <title>Tomislav Petkovic et al.</title>
-      <link>https://petkovich.github.io/authors/tomislav-petkovic-et-al./</link>
+      <title>Goran Popović</title>
+      <link>https://petkovich.github.io/authors/goran-popovic/</link>
       <pubDate>Tue, 15 Jan 2019 00:12:05 +0200</pubDate>
-      <guid>https://petkovich.github.io/authors/tomislav-petkovic-et-al./</guid>
+      <guid>https://petkovich.github.io/authors/goran-popovic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Igor Cvišić</title>
+      <link>https://petkovich.github.io/authors/igor-cvisic/</link>
+      <pubDate>Tue, 15 Jan 2019 00:12:05 +0200</pubDate>
+      <guid>https://petkovich.github.io/authors/igor-cvisic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juraj Peršić</title>
+      <link>https://petkovich.github.io/authors/juraj-persic/</link>
+      <pubDate>Tue, 15 Jan 2019 00:12:05 +0200</pubDate>
+      <guid>https://petkovich.github.io/authors/juraj-persic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marija Seder</title>
+      <link>https://petkovich.github.io/authors/marija-seder/</link>
+      <pubDate>Tue, 15 Jan 2019 00:12:05 +0200</pubDate>
+      <guid>https://petkovich.github.io/authors/marija-seder/</guid>
       <description></description>
     </item>
     
@@ -97,7 +169,7 @@
       <link>https://petkovich.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://petkovich.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am a PhD student in robotics, focused on human intention recognition for warehouse application. I am a member of the Laboratory for Autonomous Systems and Mobile Robotics (&lt;a href=&#34;https://lamor.fer.hr/&#34; target=&#34;_blank&#34;&gt;LAMOR&lt;/a&gt;) and a teaching assistant at the University of Zagreb.&lt;/p&gt;
+      <description>&lt;p&gt;PhD student in robotics, focused on human action prediction. Also an experienced consultant in fields of Robotics, Computer Vision, Reinforcement &amp;amp; Machine learning.&lt;/p&gt;
 </description>
     </item>
     
