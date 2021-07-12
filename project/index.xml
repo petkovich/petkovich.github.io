@@ -1,30 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Tomislav Petković</title>
+    <title>Projects | Tomislav Petković</title>
     <link>https://petkovich.github.io/project/</link>
       <atom:link href="https://petkovich.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://petkovich.github.io/img/icon-192.png</url>
-      <title>Publications</title>
+      <title>Projects</title>
       <link>https://petkovich.github.io/project/</link>
     </image>
     
     <item>
-      <title>L4MS: Logistics for manufacturing SMEs</title>
-      <link>https://petkovich.github.io/www.l4ms.eu</link>
+      <title>Human Action Prediction</title>
+      <link>https://petkovich.github.io/project/safelog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://petkovich.github.io/www.l4ms.eu</guid>
+      <guid>https://petkovich.github.io/project/safelog/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>SafeLOG: Safe human-robot interaction in logistic applications for highly flexible warehouses</title>
-      <link>https://petkovich.github.io/safelog-project.eu/</link>
+      <title>OpenCV marker pose estimation</title>
+      <link>https://petkovich.github.io/project/l4ms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://petkovich.github.io/safelog-project.eu/</guid>
+      <guid>https://petkovich.github.io/project/l4ms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plane Fitting Applet</title>
+      <link>https://petkovich.github.io/project/plane_fitting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://petkovich.github.io/project/plane_fitting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sales Prediction</title>
+      <link>https://petkovich.github.io/project/sales_prediction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://petkovich.github.io/project/sales_prediction/</guid>
       <description></description>
     </item>
     
